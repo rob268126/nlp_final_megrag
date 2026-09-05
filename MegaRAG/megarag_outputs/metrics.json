@@ -1,0 +1,9 @@
+{
+  "num_eval": 60,
+  "megarag_exact_match": 0.0,
+  "megarag_token_f1": 0.3644239593092985,
+  "megarag_token_recall": 0.4999537565417053,
+  "baseline_exact_match": 0.0,
+  "baseline_token_f1": 0.3559850430245261,
+  "baseline_token_recall": 0.24422734621699005
+}

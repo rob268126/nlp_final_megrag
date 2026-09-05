@@ -1,0 +1,374 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d11" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d10" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d9" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d8" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d7" for="edge" attr.name="description" attr.type="string"/>
+<key id="d6" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Trương giả học">
+  <data key="d0">Trương giả học</data>
+  <data key="d1">concept</data>
+  <data key="d2">"Trương giả học is a concept used as a title suggestion for the text."|</data>
+  <data key="d3">chunk-b19c4a5cd15592b7641bada2ce9ef607</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233646</data>
+</node>
+<node id="27">
+  <data key="d0">27</data>
+  <data key="d1">mathematical_expression</data>
+  <data key="d2">"A number used in addition operations."|</data>
+  <data key="d3">chunk-b21056b900d1b53b13c5d9cc1d9caf6b</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233646</data>
+</node>
+<node id="Chòm sao Gấu Bé">
+  <data key="d0">Chòm sao Gấu Bé</data>
+  <data key="d1">concept</data>
+  <data key="d2">"Chòm sao Gấu Bé is a constellation located in the northern sky, adjacent to the Big Dipper."|</data>
+  <data key="d3">chunk-d382009f5b842c7eca8c269d6a896195</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233646</data>
+</node>
+<node id="Hình 4.6">
+  <data key="d0">Hình 4.6</data>
+  <data key="d1">figure</data>
+  <data key="d2">"Figure 4.6 depicts the Little Dipper constellation."|</data>
+  <data key="d3">chunk-d382009f5b842c7eca8c269d6a896195</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233646</data>
+</node>
+<node id="Trò chơi 'Chạm bóng nhanh'">
+  <data key="d0">Trò chơi 'Chạm bóng nhanh'</data>
+  <data key="d1">concept</data>
+  <data key="d2">"A quick ball touching game designed for students to practice their skills."|</data>
+  <data key="d3">chunk-282c131d295ae37adadba2cded82a9e3</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233646</data>
+</node>
+<node id="Động phân mạch carbon">
+  <data key="d0">Động phân mạch carbon</data>
+  <data key="d1">concept</data>
+  <data key="d2">"Động phân mạch carbon refers to the concept of isomers where molecules have different structures but the same molecular formula."|</data>
+  <data key="d3">chunk-ce01fcc9263ec0ee114400535f404f65</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233646</data>
+</node>
+<node id="BÀI 10 TIÊN ĐỀ EUCLID. TÍNH CHẤT CỦA HAI ĐƯỜNG THẲNG SONG SONG">
+  <data key="d0">BÀI 10 TIÊN ĐỀ EUCLID. TÍNH CHẤT CỦA HAI ĐƯỜNG THẲNG SONG SONG</data>
+  <data key="d1">literary_work</data>
+  <data key="d2">"This is the title of a mathematical lesson about Euclid's theorem regarding parallel lines and their properties."|</data>
+  <data key="d3">chunk-8f72ba18fd2fd4a1aeecff7b7a7c2b1f</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233646</data>
+</node>
+<node id="Hình 14.3. Vẽ mở">
+  <data key="d0">Hình 14.3. Vẽ mở</data>
+  <data key="d1">figure</data>
+  <data key="d2">"Figure 14.3 depicts an open drawing, likely representing a technical or architectural design."|</data>
+  <data key="d3">chunk-34110de1d45ef26e1883562005279e80</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233646</data>
+</node>
+<node id="Bài 11">
+  <data key="d0">Bài 11</data>
+  <data key="d1">literary_work</data>
+  <data key="d2">"Bài 11 là một bài học âm nhạc trong chương trình học của lớp 6 và lớp 7."|</data>
+  <data key="d3">chunk-dc083d0e3a5e83500fc715760bffcdc2</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233660</data>
+</node>
+<node id="Ngày hội tái chế">
+  <data key="d0">Ngày hội tái chế</data>
+  <data key="d1">event</data>
+  <data key="d2">"A recycling event organized by the school where students participate in various activities to recycle waste and plant trees."|</data>
+  <data key="d3">chunk-c8db9432436a6192fd25b3c4ccff3fca</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233660</data>
+</node>
+<node id="BÀI 9 HAI ĐƯỜNG THẲNG SONG SONG VÀ DẤU HIỆU NHẬN BIẾT">
+  <data key="d0">BÀI 9 HAI ĐƯỜNG THẲNG SONG SONG VÀ DẤU HIỆU NHẬN BIẾT</data>
+  <data key="d1">literary_work</data>
+  <data key="d2">"This is the title of a lesson about parallel lines and recognition marks."|</data>
+  <data key="d3">chunk-8ef277b23baa40ba972eb8f99d16fe28</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233660</data>
+</node>
+<node id="Chị Q">
+  <data key="d0">Chị Q</data>
+  <data key="d1">person</data>
+  <data key="d2">Chị Q là người sử dụng dịch vụ thẻ tín dụng có trách nhiệm, luôn thanh toán đúng hạn và nhận ưu đãi từ ngân hàng.</data>
+  <data key="d3">chunk-51f653e885a264c6d5807c00a918a1b4</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233660</data>
+</node>
+<node id="Anh H">
+  <data key="d0">Anh H</data>
+  <data key="d1">person</data>
+  <data key="d2">Anh H sử dụng dịch vụ vay thế chấp nhưng chưa có trách nhiệm vì không trả nợ đúng hạn.</data>
+  <data key="d3">chunk-51f653e885a264c6d5807c00a918a1b4</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233660</data>
+</node>
+<node id="Dịch vụ tín dụng">
+  <data key="d0">Dịch vụ tín dụng</data>
+  <data key="d1">concept</data>
+  <data key="d2">"Dịch vụ tín dụng là một loại hình dịch vụ tài chính giúp người dùng vay tiền hoặc sử dụng dịch vụ tín dụng để mua sắm hoặc đầu tư."|</data>
+  <data key="d3">chunk-51f653e885a264c6d5807c00a918a1b4</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233660</data>
+</node>
+<node id="Mặt trời xanh của tôi">
+  <data key="d0">Mặt trời xanh của tôi</data>
+  <data key="d1">literary_work</data>
+  <data key="d2">"A poem titled 'Mặt trời xanh của tôi' written in three stanzas."|</data>
+  <data key="d3">chunk-ce038e10d06c9951e90bf0a2cd0b9921</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233660</data>
+</node>
+<node id="Trời xuân">
+  <data key="d0">Trời xuân</data>
+  <data key="d1">concept</data>
+  <data key="d2">"Trời xuân is a concept referring to the season of spring, characterized by mild temperatures and the presence of light fog."|</data>
+  <data key="d3">chunk-dd79ec60609b404ecd284736385e842d</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233660</data>
+</node>
+<node id="GV">
+  <data key="d0">GV</data>
+  <data key="d1">person</data>
+  <data key="d2">"GV refers to the teacher who initiates the lesson by providing information about gas exchange in humans and posing questions about the process of gas exchange in animals and plants."|&lt;SEP&gt;GV refers to the teacher guiding students through educational activities about environmental pollution in agriculture.</data>
+  <data key="d3">chunk-85672465ace140187ad13ec8976ed8fe&lt;SEP&gt;chunk-12f46c02439094eeec5db14b364840d2</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233673</data>
+</node>
+<node id="Phố cổ Hà Nội">
+  <data key="d0">Phố cổ Hà Nội</data>
+  <data key="d1">location</data>
+  <data key="d2">"Phố cổ Hà Nội là một khu vực lịch sử nổi tiếng ở Hà Nội, Việt Nam."|</data>
+  <data key="d3">chunk-2d78bce228d2b3d7573935c61dbd811b</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233673</data>
+</node>
+<node id="Khoảng biến thiên">
+  <data key="d0">Khoảng biến thiên</data>
+  <data key="d1">concept</data>
+  <data key="d2">"Khoảng biến thiên là một số đặc trưng đo mức độ phân tán của toàn bộ mẫu số liệu."|</data>
+  <data key="d3">chunk-b6aceea10ecd3c22a21c38a1cbd5d37c</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233673</data>
+</node>
+<node id="HS">
+  <data key="d0">HS</data>
+  <data key="d1">organization</data>
+  <data key="d2">HS refers to students in the context of educational activities related to environmental pollution in agriculture.</data>
+  <data key="d3">chunk-12f46c02439094eeec5db14b364840d2</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233673</data>
+</node>
+<node id="SGK">
+  <data key="d0">SGK</data>
+  <data key="d1">literary_work</data>
+  <data key="d2">SGK likely refers to a textbook or educational guide used in the lesson plan.</data>
+  <data key="d3">chunk-12f46c02439094eeec5db14b364840d2</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233673</data>
+</node>
+<node id="Hình 26.2">
+  <data key="d0">Hình 26.2</data>
+  <data key="d1">figure</data>
+  <data key="d2">A figure mentioned in the SGK, possibly a diagram or illustration related to environmental pollution in agriculture.</data>
+  <data key="d3">chunk-12f46c02439094eeec5db14b364840d2</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233673</data>
+</node>
+<node id="Hình 26.1">
+  <data key="d0">Hình 26.1</data>
+  <data key="d1">figure</data>
+  <data key="d2">Another figure mentioned in the SGK, possibly another diagram or illustration related to environmental pollution in agriculture.</data>
+  <data key="d3">chunk-12f46c02439094eeec5db14b364840d2</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233673</data>
+</node>
+<node id="KHÁM PHÁ">
+  <data key="d0">KHÁM PHÁ</data>
+  <data key="d1">concept</data>
+  <data key="d2">KHÁM PHÁ refers to a section within the SGK where students explore and discuss environmental pollution in agriculture.</data>
+  <data key="d3">chunk-12f46c02439094eeec5db14b364840d2</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233673</data>
+</node>
+<node id="gia đình">
+  <data key="d0">gia đình</data>
+  <data key="d1">location</data>
+  <data key="d2">Refers to the family home, where students can connect their learning to real-world experiences.</data>
+  <data key="d3">chunk-12f46c02439094eeec5db14b364840d2</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233687</data>
+</node>
+<node id="địa phương">
+  <data key="d0">địa phương</data>
+  <data key="d1">location</data>
+  <data key="d2">Refers to the local area, where students can connect their learning to real-world experiences.</data>
+  <data key="d3">chunk-12f46c02439094eeec5db14b364840d2</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233687</data>
+</node>
+<node id="cơm">
+  <data key="d0">cơm</data>
+  <data key="d1">concept</data>
+  <data key="d2">"cơm refers to cooked rice, a staple food item."|</data>
+  <data key="d3">chunk-cbb04d405b6b3c7ab9e3e8604f53e5e4</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233687</data>
+</node>
+<node id="Thể hiện tiết tấu">
+  <data key="d0">Thể hiện tiết tấu</data>
+  <data key="d1">concept</data>
+  <data key="d2">"Concept of demonstrating rhythm through percussion instruments."&gt;</data>
+  <data key="d3">chunk-ba5148eb032ec4024ebac7e2e3927eb6</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233687</data>
+</node>
+<node id="Mùa xuân">
+  <data key="d0">Mùa xuân</data>
+  <data key="d1">literary_work</data>
+  <data key="d2">"A piece of music titled 'Spring' composed by Antonino Vivaldi."&gt;</data>
+  <data key="d3">chunk-ba5148eb032ec4024ebac7e2e3927eb6</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233687</data>
+</node>
+<node id="Tosch">
+  <data key="d0">Tosch</data>
+  <data key="d1">person</data>
+  <data key="d2">"The composer or arranger of the piece 'Spring' mentioned in the OCR text."&gt;</data>
+  <data key="d3">chunk-ba5148eb032ec4024ebac7e2e3927eb6</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233687</data>
+</node>
+<node id="Antonino Vivaldi">
+  <data key="d0">Antonino Vivaldi</data>
+  <data key="d1">person</data>
+  <data key="d2">"The composer of the piece 'Spring' mentioned in the OCR text."&gt;</data>
+  <data key="d3">chunk-ba5148eb032ec4024ebac7e2e3927eb6</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233687</data>
+</node>
+<node id="Hội nhánh c">
+  <data key="d0">Hội nhánh c</data>
+  <data key="d1">person</data>
+  <data key="d2">"A person whose name appears in the OCR text, possibly referring to a performer or composer."&gt;</data>
+  <data key="d3">chunk-ba5148eb032ec4024ebac7e2e3927eb6</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233687</data>
+</node>
+<node id="y = x^2">
+  <data key="d0">y = x^2</data>
+  <data key="d1">mathematical_expression</data>
+  <data key="d2">"The function y = x^2 has a domain of all real numbers, denoted as R."|</data>
+  <data key="d3">chunk-ce44552966e696bae1e2bd9526fa60b3</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233699</data>
+</node>
+<node id="Học sinh">
+  <data key="d0">Học sinh</data>
+  <data key="d1">person</data>
+  <data key="d2">"Students who have studied functions at lower levels."|</data>
+  <data key="d3">chunk-ce44552966e696bae1e2bd9526fa60b3</data>
+  <data key="d4">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d5">1788233699</data>
+</node>
+<edge source="GV" target="HS">
+  <data key="d6">8.0</data>
+  <data key="d7">The teacher guides the students through the educational activities."|&gt;|&gt;"teacher-student interaction</data>
+  <data key="d8">8</data>
+  <data key="d9">chunk-12f46c02439094eeec5db14b364840d2</data>
+  <data key="d10">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d11">1788233699</data>
+</edge>
+<edge source="GV" target="SGK">
+  <data key="d6">7.0</data>
+  <data key="d7">The teacher uses the SGK as a resource for teaching about environmental pollution in agriculture."|&gt;|&gt;"teaching resource</data>
+  <data key="d8">7</data>
+  <data key="d9">chunk-12f46c02439094eeec5db14b364840d2</data>
+  <data key="d10">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d11">1788233707</data>
+</edge>
+<edge source="HS" target="SGK">
+  <data key="d6">7.0</data>
+  <data key="d7">Students use the SGK as a resource for learning about environmental pollution in agriculture."|&gt;|&gt;"learning resource</data>
+  <data key="d8">7</data>
+  <data key="d9">chunk-12f46c02439094eeec5db14b364840d2</data>
+  <data key="d10">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d11">1788233704</data>
+</edge>
+<edge source="HS" target="Hình 26.2">
+  <data key="d6">6.0</data>
+  <data key="d7">Students study and interact with Figure 26.2 in the SGK."|&gt;|&gt;"study material</data>
+  <data key="d8">6</data>
+  <data key="d9">chunk-12f46c02439094eeec5db14b364840d2</data>
+  <data key="d10">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d11">1788233707</data>
+</edge>
+<edge source="HS" target="Hình 26.1">
+  <data key="d6">6.0</data>
+  <data key="d7">Students study and interact with Figure 26.1 in the SGK."|&gt;|&gt;"study material</data>
+  <data key="d8">6</data>
+  <data key="d9">chunk-12f46c02439094eeec5db14b364840d2</data>
+  <data key="d10">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d11">1788233712</data>
+</edge>
+<edge source="HS" target="KHÁM PHÁ">
+  <data key="d6">6.0</data>
+  <data key="d7">Students engage in discussions and exploration related to environmental pollution in agriculture."|&gt;|&gt;"exploration activity</data>
+  <data key="d8">6</data>
+  <data key="d9">chunk-12f46c02439094eeec5db14b364840d2</data>
+  <data key="d10">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d11">1788233717</data>
+</edge>
+<edge source="HS" target="gia đình">
+  <data key="d6">5.0</data>
+  <data key="d7">Students connect their learning to their family homes."|&gt;|&gt;"real-world connection</data>
+  <data key="d8">5</data>
+  <data key="d9">chunk-12f46c02439094eeec5db14b364840d2</data>
+  <data key="d10">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d11">1788233718</data>
+</edge>
+<edge source="HS" target="địa phương">
+  <data key="d6">5.0</data>
+  <data key="d7">Students connect their learning to their local areas."|&gt;|&gt;"real-world connection</data>
+  <data key="d8">5</data>
+  <data key="d9">chunk-12f46c02439094eeec5db14b364840d2</data>
+  <data key="d10">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d11">1788233720</data>
+</edge>
+<edge source="Thể hiện tiết tấu" target="Mùa xuân">
+  <data key="d6">8.0</data>
+  <data key="d7">"Rhythm demonstration is applied to the piece 'Spring'."&gt;|</data>
+  <data key="d8">musical piece,rhythm application</data>
+  <data key="d9">chunk-ba5148eb032ec4024ebac7e2e3927eb6</data>
+  <data key="d10">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d11">1788233704</data>
+</edge>
+<edge source="Tosch" target="Antonino Vivaldi">
+  <data key="d6">7.0</data>
+  <data key="d7">"Tosch is likely the arranger or composer of the piece 'Spring', as indicated by the OCR text."&gt;|</data>
+  <data key="d8">arranger,composer</data>
+  <data key="d9">chunk-ba5148eb032ec4024ebac7e2e3927eb6</data>
+  <data key="d10">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d11">1788233707</data>
+</edge>
+<edge source="Antonino Vivaldi" target="Hội nhánh c">
+  <data key="d6">30.0</data>
+  <data key="d7">"Hội nhánh c is likely a collaborator or performer associated with Antonino Vivaldi."&gt;|</data>
+  <data key="d8">collaboration,performance</data>
+  <data key="d9">chunk-ba5148eb032ec4024ebac7e2e3927eb6</data>
+  <data key="d10">/kaggle/tmp/megarag_vdoc/pages_content.json</data>
+  <data key="d11">1788233712</data>
+</edge>
+</graph></graphml>

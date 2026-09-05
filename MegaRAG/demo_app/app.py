@@ -15,7 +15,7 @@ def mock_query(question):
     # Đường dẫn tương đối khi chạy local, hoặc tuyệt đối trên Kaggle
     results_file = os.path.join(os.path.dirname(__file__), '..', '..', 'outputs', 'demo_results.jsonl')
     if not os.path.exists(results_file):
-        results_file = "/kaggle/working/megarag_outputs/demo_results.jsonl"
+        results_file = "../megarag_outputs/demo_results.jsonl"
         
     sample_qs = [
         "Tác giả của vở kịch 'Gia tài' là ai và được phóng tác từ tác phẩm nào?",

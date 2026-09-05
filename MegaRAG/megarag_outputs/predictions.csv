@@ -1,0 +1,1050 @@
+index,question,gold_answer,megarag_answer,baseline_answer,megarag_em,megarag_f1,megarag_recall,baseline_em,baseline_f1,baseline_recall
+0,"Theo văn bản, những tác phẩm nào được liệt kê là của tác giả Vũ Đình Long?","Theo văn bản, các tác phẩm được liệt kê là của tác giả **Vũ Đình Long** bao gồm:  
+- *Chén thuốc độc* (1921)  
+- *Toà án lương tâm* (1923)  
+- *Đàn bà mới* (1944)  
+- *Tổ quốc trên hết* (1950, phóng tác)  
+- *Gia tài* (1958, phóng tác)  
+
+Các tác phẩm này được nêu rõ trong phần giới thiệu về ông: *""Ông là tác giả của nhiều vở kịch hiện đại như: Chén thuốc độc (1921), Toà án lương tâm (1923), Đàn bà mới (1944), Tổ quốc trên hết (1960, phóng tác), Gia tài (1978, phóng tác),...""* (trang 105).","Theo văn bản từ nguồn document images, tác phẩm của Vũ Đình Long được liệt kê bao gồm:
+
+1. ""Chén thuốc độc"" - xuất bản năm 1921.
+2. ""Toà án lương tâm"" - xuất bản năm 1923.
+3. ""Đàn bà mới"" - xuất bản năm 1944.
+4. ""Tổ quốc trên hết"" - xuất bản năm 1949, đây là một bản phóng tác.
+5. ""Gia tài"" - xuất bản năm 1958, cũng là một bản phóng tác.
+
+Vì vậy, những tác phẩm được liệt kê là của tác giả Vũ Đình Long theo thông tin từ nguồn document images là: ""Chén thuốc độc"", ""Toà án lương tâm"", ""Đàn bà mới"", ""Tổ quốc trên hết"", và ""Gia tài"".","Theo văn bản, tác phẩm được liệt kê là của tác giả Vũ Đình Long gồm: Chén thuốc độc (1921), Tòa án lương tâm (1923), Đàn bà mới (1944), Tổ quốc trên hết (1949, phóng tác), Gia tài (1958, phóng tác).",0,0.6048780487804877,0.6595744680851063,0,0.5777777777777778,0.4148936170212766
+1,Vở kịch 'Gia tài' được phóng tác từ vở hài kịch nào của tác giả Rơ-nha (Regnard)?,"Theo văn bản, vở kịch *Gia tài* được phóng tác từ vở hài kịch **Lê-ga-tê Uy-ni-véc-xen** (*Légataire Universel*) của tác giả Rơ-nha (Regnard).","Dựa trên thông tin mà bạn đã cung cấp, tôi không có đủ thông tin để xác định rõ ràng vở hài kịch nào của tác giả Rơ-nha (Regnard) đã được phóng tác thành vở kịch 'Gia tài'. Cả hai đáp án đều cho thấy rằng không có thông tin cụ thể về mối liên hệ giữa vở kịch 'Gia tài' và tác phẩm hài kịch của Rơ-nha (Regnard) trong dữ liệu hiện có.
+
+Trong trường hợp này, nếu bạn có thêm thông tin hoặc nguồn gốc cụ thể về vở kịch 'Gia tài', tôi sẽ rất vui lòng giúp bạn tìm hiểu thêm. Nếu không có thông tin bổ sung nào, chúng ta sẽ tiếp tục chờ đợi thông tin mới từ các nguồn khác.",Vở kịch 'Gia tài' được phóng tác từ vở hài kịch 'Légataire Universel' của tác giả Rơ-nha (Regnard).,0,0.21656050955414013,0.5862068965517241,0,0.7916666666666666,0.6551724137931034
+2,"Trong vở kịch 'Gia tài', ai là người đóng vai trò tìm người thừa kế gia tài và gặp phải tình huống gì?","Trong vở kịch **""Gia tài""**, nhân vật **ông già Di Lụng** là người đóng vai trò tìm người thừa kế gia tài của mình. Tuy nhiên, ông **lâm trọng bệnh**, có nguy cơ ""sắp về chầu Phật"". Trong lúc này, cháu ruột là **Hy Lạc** cùng các nhân vật khác (Khiết, Lý) đã **lập chúc thư giả** để chiếm đoạt tài sản. Họ nhờ Khiết **cải trang thành ông Di Lụng** để lừa công chứng viên. Dù ông Di Lụng **đột nhiên khỏe lại**, họ vẫn thuyết phục ông tin rằng **chúc thư giả đó là thật**, do chính ông lập nên. Tình huống này tạo nên xung đột hài hước và phê phán tính tham lam, đạo đức giả trong xã hội.","Trong vở kịch 'Gia tài' của Vũ Đình Long, người đóng vai trò tìm người thừa kế gia tài là ông Di Lung. Theo thông tin từ hình ảnh văn bản, ông Di Lung đang tìm người để kế thừa gia tài của mình. Tuy nhiên, ông lại đang bị bệnh và có nguy cơ sắp về ""châu Phật"", điều này khiến cho các nhân vật khác như Hy Lạc, Khiết, Lý và Thận Trọng phải cố gắng tìm cách để giúp ông Di Lung tìm được người thừa kế.
+
+Tóm lại, trong vở kịch 'Gia tài', ông Di Lung là người tìm người thừa kế gia tài và đang gặp phải tình huống bị bệnh, có nguy cơ về ""châu Phật"", khiến cho các nhân vật khác phải nỗ lực giúp đỡ ông tìm được người kế thừa.","Trong vở kịch 'Gia tài', ông Di Lung là người tìm người thừa kế gia tài và gặp phải tình huống là bị người khác giả làm.",0,0.4427480916030535,0.4715447154471545,0,0.27999999999999997,0.17073170731707318
+3,"Trong bài tập 2a, kết quả của phép cộng 27 + 46 là bao nhiêu?","Kết quả của phép cộng 27 + 46 trong bài tập 2a là **73**. 
+
+**Cách tính:**  
+- Hàng đơn vị: $7 + 6 = 13$ → Viết **3**, nhớ **1**.  
+- Hàng chục: $2 + 4 + 1 = 7$ → Viết **7**.  
+
+Vậy $27 + 46 = \boxed{73}$.","Bài tập 2a yêu cầu tính tổng của hai số 27 và 46. Cả hai nguồn thông tin đều cung cấp kết quả chính xác cho phép tính này.
+
+Theo kiến thức từ knowledge graph, chúng ta có:
+
+\[ 27 + 46 = 73 \]
+
+Và theo thông tin từ hình ảnh tài liệu, phép tính cũng cho kết quả:
+
+```
+   27
++ 46
+------
+   73
+```
+
+Do đó, kết quả của phép cộng giữa 27 và 46 là 73.",Kết quả của phép cộng 27 + 46 là 73.,0,0.29906542056074764,0.42105263157894735,0,0.38297872340425526,0.23684210526315788
+4,"Trong bài tập 3a, biểu thức 85 - 68 so với 20 và 49 + 33 so với 91, ta sử dụng ký hiệu nào để so sánh?","Trong bài tập 3a:  
+- **85 – 68 = 17**, và **17 < 20** → Dùng ký hiệu **<**.  
+- **49 + 33 = 82**, và **82 < 91** → Dùng ký hiệu **<**.  
+
+**Đáp án:** Cả hai biểu thức đều sử dụng ký hiệu **<**.","Để trả lời câu hỏi này, chúng ta cần xem xét các biểu thức được nêu trong bài tập 3a:
+
+1. Biểu thức đầu tiên là \(85 - 68\).
+2. Biểu thức thứ hai là \(49 + 33\).
+
+Đầu tiên, chúng ta tính giá trị của mỗi biểu thức:
+
+- Biểu thức \(85 - 68\) sẽ cho kết quả là \(17\).
+- Biểu thức \(49 + 33\) sẽ cho kết quả là \(82\).
+
+Sau đó, chúng ta cần so sánh kết quả này với các số khác:
+
+- So sánh \(17\) với \(20\): \(17 < 20\). Vì vậy, biểu thức \(85 - 68\) nhỏ hơn \(20\), nên sử dụng ký hiệu ""<"".
+- So sánh \(82\) với \(91\): \(82 < 91\). Vì vậy, biểu thức \(49 + 33\) nhỏ hơn \(91\), nên cũng sử dụng ký hiệu ""<"".
+
+Tuy nhiên, theo thông tin từ hình ảnh tài liệu, người dùng đã đưa ra một đáp án khác: ""Trong bài tập 3a, biểu thức 85 - 68 so với 20 và 49 + 33 so với 91, ta sử dụng ký hiệu "">;"" để so sánh. Điều này có nghĩa là kết quả của phép tính 85 - 68 lớn hơn 20 và kết quả của phép tính 49 + 33 nhỏ hơn 91.""
+
+Dựa vào thông tin từ hình ảnh tài liệu, chúng ta thấy rằng có sự mâu thuẫn giữa hai đáp án. Tuy nhiên, nếu chúng ta dựa trên thông tin từ hình ảnh tài liệu, thì đáp án chính xác hơn sẽ là sử dụng ký hiệu "">;"".
+
+Vì vậy, tổng hợp cả hai nguồn thông tin, câu trả lời chính xác nhất cho câu hỏi này là:
+
+- Biểu thức \(85 - 68\) so với \(20\) sử dụng ký hiệu ""<"".
+- Biểu thức \(49 + 33\) so với \(91\) sử dụng ký hiệu ""<"".
+
+Nhưng nếu chúng ta phải chọn một đáp án duy nhất dựa trên thông tin từ hình ảnh tài liệu, thì đáp án sẽ là sử dụng ký hiệu "">;"".","Trong bài tập 3a, ta sử dụng ký hiệu ""<"" cho 85 - 68 so với 20 và "">"" cho 49 + 33 so với 91.",0,0.1797101449275362,0.9393939393939394,0,0.5454545454545454,0.45454545454545453
+5,"Nếu con bò sữa của bác An mỗi ngày cho 20 lít sữa và con bò sữa của bác Bình mỗi ngày cho ít hơn con bò sữa của bác An 5 lít sữa, thì mỗi ngày con bò sữa của bác Bình cho bao nhiêu lít sữa?","Mỗi ngày con bò sữa của bác Bình cho **15 lít sữa**.  
+*Giải thích:*  
+- Con bò sữa của bác An cho 20 lít/ngày.  
+- Con bò sữa của bác Bình cho ít hơn 5 lít so với bác An → $ 20 - 5 = 15 $ (lít).","The cow milk of Uncle An produces 20 liters of milk per day, while the cow milk of Uncle Binh produces less than Uncle An's cow milk by 5 liters per day. Therefore, the calculation for Uncle Binh's cow milk production per day would be:
+
+Uncle Binh's cow milk production per day = Uncle An's cow milk production per day - 5 liters
+
+So, the calculation is:
+
+20 liters - 5 liters = 15 liters
+
+Thus, each day, Uncle Binh's cow produces 15 liters of milk.",Mỗi ngày con bò sữa của bác Bình cho 15 lít sữa.,0,0.13846153846153844,0.20930232558139536,0,0.43636363636363634,0.27906976744186046
+6,Chòm sao Gấu Bé có bao nhiêu ngôi sao chính và ngôi sao nào trong chòm sao này là sao Bắc Cực?,"Chòm sao Gấu Bé có **7 ngôi sao chính**. Ngôi sao ở cuối đuôi chòm sao Gấu Bé chính là **sao Bắc Cực** (theo thông tin trong phần III: *""Chòm sao Gấu Bé cũng được tạo thành từ 7 sao chính. Ngôi sao ở cuối đuôi chòm sao Gấu Bé chính là sao Bắc Cực""*).","Chòm sao Gấu Bé, còn gọi là Chòm sao Đại Lạp, bao gồm 7 ngôi sao chính. Trong số đó, ngôi sao Bắc Cực là Polaris, thường được biết đến với tên gọi ""Sao Bắc Cực"". Tuy nhiên, cần lưu ý rằng Polaris không phải là một phần của chòm sao Gấu Bé mà là một ngôi sao riêng biệt nằm gần chòm sao này. Nó là ngôi sao sáng nhất trong chòm sao Đại Lạp và được sử dụng để định hướng trên bầu trời đêm.
+
+Theo thông tin từ hình ảnh tài liệu, ngôi sao ở cuối đuôi chòm sao Gấu Bé chính là sao Bắc Cực. Điều này cho thấy rằng trong thực tế, ngôi sao Bắc Cực nằm ở vị trí cuối cùng của chòm sao Gấu Bé, điều này phù hợp với thông tin từ hình ảnh tài liệu.
+
+Vì vậy, tổng kết lại, chòm sao Gấu Bé có 7 ngôi sao chính, trong đó ngôi sao Bắc Cực là Polaris, nhưng nó không phải là một phần của chòm sao Gấu Bé mà là một ngôi sao riêng biệt nằm gần chòm sao này. Ngôi sao Bắc Cực cũng chính là ngôi sao ở cuối đuôi chòm sao Gấu Bé theo thông tin từ hình ảnh tài liệu.","Chòm sao Gấu Bé có 7 ngôi sao chính, trong đó ngôi sao Bắc Cực là sao Bắc Cực.",0,0.38661710037174724,0.9454545454545454,0,0.48648648648648646,0.32727272727272727
+7,Chòm sao Thiên Hậu được tạo thành từ bao nhiêu ngôi sao và nó mang hình ảnh của nhân vật nào trong truyền thuyết Hy Lạp?,"Chòm sao Thiên Hậu được tạo thành từ **5 ngôi sao** và mang hình ảnh của **nữ hoàng Cassiopeia** trong truyền thuyết Hy Lạp. Thông tin này được nêu rõ trong phần mô tả: *""Chòm sao Thiên Hậu mang hình ảnh của nữ hoàng Cassiopeia trong truyền thuyết Hy Lạp, được tạo thành từ 5 ngôi sao ở thiên cầu Bắc...""* (Hình 4.6 và 4.7).","The answer based on the knowledge graph indicates that there is no specific information about the number of stars in the constellation Thiên Hậu or its association with a character from Greek mythology within the provided data. The knowledge graph only mentions Chòm sao Gấu Bé and Image 4.6 without any details about Thiên Hậu.
+
+However, the answer derived from the document images provides more specific information:
+
+- Chòm sao Thiên Hậu được tạo thành từ 5 ngôi sao ở thiên cầu Bắc.
+- Nó mang hình ảnh của nữ hoàng Cassiopeia trong truyền thuyết Hy Lạp.
+
+Based on this information, we can conclude that Chòm sao Thiên Hậu được tạo thành từ 5 ngôi sao và nó mang hình ảnh của nữ hoàng Cassiopeia trong truyền thuyết Hy Lạp.",Chòm sao Thiên Hậu được tạo thành từ 5 ngôi sao và nó mang hình ảnh của nữ hoàng Cassiopeia trong truyền thuyết Hy Lạp.,0,0.5408163265306123,0.7910447761194029,0,0.5217391304347826,0.3582089552238806
+8,"Theo như thông tin trong ảnh, sự khác biệt về kích thước giữa các ngôi sao trong chòm Gấu Bé so với các ngôi sao trong chòm Gấu Lớn là gì?","Theo thông tin trong ảnh, **khoảng cách giữa các ngôi sao** trong chòm sao Gấu Bé **nhỏ hơn** so với khoảng cách giữa các ngôi sao trong chòm sao Gấu Lớn (được nêu rõ ở phần mô tả chòm sao Gấu Bé: *""Khoảng cách giữa các sao trong chòm Gấu Bé nhỏ hơn so với các sao trong chòm Gấu Lớn (Hình 4.6)""*). 
+
+Lưu ý: Thông tin này đề cập đến **khoảng cách giữa các ngôi sao** (sự phân bố không gian của chúng trong chòm sao), chứ không phải kích thước thực tế của từng ngôi sao. Các ngôi sao trong cả hai chòm đều có kích thước vật lý khác nhau tùy thuộc vào đặc điểm riêng, nhưng khoảng cách trung bình giữa chúng trong chòm Gấu Bé ngắn hơn so với chòm Gấu Lớn.","Theo thông tin từ ảnh và kiến thức từ Knowledge Graph, chòm sao Gấu Bé (Little Dipper) nằm ở phía bắc bầu trời, giáp với chòm sao Gấu Lớn (Big Dipper). Tuy nhiên, thông tin cụ thể về sự khác biệt về kích thước giữa các ngôi sao trong chòm Gấu Bé so với các ngôi sao trong chòm Gấu Lớn không được cung cấp trong ảnh hoặc Knowledge Graph.
+
+Thông thường, các ngôi sao trong chòm sao Gấu Bé thường nhỏ hơn so với các ngôi sao trong chòm sao Gấu Lớn. Tuy nhiên, điều này chỉ là một xu hướng chung và không phải tất cả các ngôi sao trong chòm sao Gấu Bé đều nhỏ hơn so với các ngôi sao trong chòm sao Gấu Lớn. Điều này phụ thuộc vào tuổi và vị trí của từng ngôi sao.
+
+Nếu bạn cần thông tin chính xác hơn về kích thước của các ngôi sao trong chòm sao Gấu Bé và Gấu Lớn, bạn nên tham khảo thêm các tài liệu khoa học hoặc sử dụng các công cụ thiên văn học để đo lường kích thước của các ngôi sao.",Khoảng cách giữa các sao trong chòm Gấu Bé nhỏ hơn so với các sao trong chòm Gấu Lớn.,0,0.5438066465256797,0.6521739130434783,0,0.24203821656050956,0.13768115942028986
+9,"Trong trò chơi ""Chạm bóng nhanh"", mục tiêu chính của các học sinh là gì, và làm thế nào để họ đạt được mục tiêu đó dựa trên hình ảnh minh họa?","Trong trò chơi **""Chạm bóng nhanh""**, mục tiêu chính của các học sinh là **thực hiện động tác chạm bóng một cách nhanh nhất** trong khuôn khổ hoạt động nhóm hoặc cá nhân. Dựa trên hình ảnh minh họa và thông tin từ sách, cách thức đạt được mục tiêu này như sau:
+
+### **Mục tiêu chính**:
+- Học sinh phải **chạm vào bóng nhanh nhất có thể** khi đến lượt mình, đồng thời di chuyển về vị trí ban đầu một cách hiệu quả. Đây là trò chơi rèn luyện tốc độ phản xạ, sự khéo léo và tinh thần đồng đội.
+
+### **Cách thức thực hiện**:
+1. **Sắp xếp đội hình**:  
+   - Các học sinh đứng thành **hai hàng dọc** (như hình vẽ), mỗi hàng có một cột mốc (đường kẻ) để xác định vị trí xuất phát và kết thúc.
+   - Một quả bóng được đặt ở phía trước, gần cột mốc cuối cùng của hàng.
+
+2. **Luật chơi**:  
+   - Khi có hiệu lệnh, học sinh đầu tiên của mỗi hàng **chạy nhanh về phía bóng**, dùng tay **chạm vào bóng** (không cần ném hay đá), sau đó **quay lại vị trí ban đầu**.
+   - Học sinh tiếp theo trong hàng sẽ tiếp tục thực hiện tương tự khi người trước hoàn thành.  
+   - Hình ảnh minh họa cho thấy đường đi bằng mũi tên đứt nét (→) và các bạn học sinh đang trong tư thế chạy, chạm bóng, rồi trở về.
+
+3. **Yếu tố quyết định thành công**:  
+   - **Tốc độ di chuyển**: Chạy nhanh từ hàng dọc đến bóng và quay lại.  
+   - **Kỹ thuật chạm bóng**: Đảm bảo chạm đúng vào bóng mà không làm rơi hoặc di chuyển bóng khỏi vị trí.  
+   - **Làm việc nhóm**: Các bạn trong hàng phải phối hợp nhịp nhàng, không xô đẩy, để trò chơi diễn ra trật tự.
+
+### **Lưu ý từ hình ảnh**:
+- Trò chơi không yêu cầu **ném bóng** (phần ""Ném bóng"" ở dưới là kỹ thuật riêng, không liên quan trực tiếp đến trò chơi ""Chạm bóng nhanh"").  
+- Động tác chủ đạo là **chạy → chạm bóng → trở về**, tập trung vào **tốc độ** và **sự chính xác** thay vì kỹ thuật phức tạp.
+
+Như vậy, trò chơi ""Chạm bóng nhanh"" giúp học sinh phát triển thể lực, phản xạ nhanh và tinh thần thi đua lành mạnh thông qua việc thực hiện động tác đơn giản nhưng đòi hỏi sự tập trung cao độ.","Trong trò chơi ""Chạm bóng nhanh"", mục tiêu chính của các học sinh là giúp họ thực hành và cải thiện kỹ năng của mình, cụ thể là khả năng xử lý và phản ứng với các tình huống bóng đá một cách nhanh chóng và chính xác.
+
+Dựa trên hình ảnh minh họa, chúng ta có thể thấy rằng để đạt được mục tiêu này, các học sinh cần thực hiện các bước sau:
+
+1. **Đoàn người**: Các học sinh sẽ được chia thành các nhóm hoặc đội. Mỗi đội sẽ cố gắng để chạm vào quả bóng trước khi đối thủ của họ có thể chạm vào nó.
+
+2. **Quá trình chơi**: Trong quá trình chơi, các học sinh sẽ phải di chuyển linh hoạt và sử dụng kỹ thuật khác nhau để tránh bị đối thủ bắt quả bóng. Họ cũng cần phải tập trung vào việc kiểm soát và đưa quả bóng đến vị trí phù hợp để có thể chạm vào nó.
+
+3. **Cách đạt được mục tiêu**: Để đạt được mục tiêu, các học sinh cần phải tập trung vào việc thực hiện các động tác linh hoạt và nhanh chóng, đồng thời luôn tập trung vào quả bóng và vị trí của nó. Điều này đòi hỏi sự tập trung cao độ và khả năng phản ứng nhanh nhạy.
+
+Tóm lại, mục tiêu chính của trò chơi ""Chạm bóng nhanh"" là giúp các học sinh cải thiện kỹ năng bóng đá thông qua việc thực hành và tập luyện. Để đạt được mục tiêu này, họ cần phải di chuyển linh hoạt, sử dụng kỹ thuật phù hợp, và tập trung vào quả bóng và vị trí của nó.","Trong trò chơi ""Chạm bóng nhanh"", mục tiêu chính của các học sinh là chạm vào quả bóng nhanh nhất có thể. Họ đạt được mục tiêu này bằng cách chạy nhanh và chạm vào quả bóng khi nó đến gần họ.",0,0.46131386861313867,0.39598997493734334,0,0.17687074829931973,0.09774436090225563
+10,"Theo hướng dẫn về ""Ném bóng"", tư thế chuẩn bị (TTCB) yêu cầu học sinh phải làm gì với hai chân và hai tay của mình?","Theo hướng dẫn về ""Ném bóng"", **tư thế chuẩn bị (TTCB)** yêu cầu học sinh:  
+- **Hai chân**: Đứng rộng bằng vai (khoảng cách giữa hai chân bằng chiều rộng vai).  
+- **Hai tay**: Cầm bóng và đưa lên cao ra sau đầu.  
+
+Điều này được minh họa rõ qua hình ảnh: học sinh đứng vững vàng, hai chân mở rộng, hai tay giữ bóng ở phía sau đầu trước khi thực hiện động tác ném.","Theo hướng dẫn về ""Ném bóng"", tư thế chuẩn bị (TTCB) yêu cầu học sinh phải thực hiện các bước sau:
+
+1. **Với Hai Chân:** Học sinh nên đứng hai chân rộng bằng vai. Điều này giúp tạo ra một nền vững chắc và ổn định cho cơ thể, đồng thời hỗ trợ việc ném bóng một cách chính xác và hiệu quả hơn.
+
+2. **Với Hai Tay:** Học sinh cần nắm giữ quả bóng và đưa nó lên cao ra sau đầu. Việc này không chỉ giúp học sinh kiểm soát tốt hơn quả bóng mà còn tạo điều kiện thuận lợi cho việc ném bóng một cách chính xác và mạnh mẽ.
+
+Tóm lại, để thực hiện tư thế chuẩn bị (TTCB) cho ném bóng, học sinh cần đảm bảo rằng hai chân của họ rộng bằng vai để tạo nền vững chắc và hai tay nắm quả bóng, đưa lên cao ra sau đầu để chuẩn bị cho hành động ném.","Theo hướng dẫn về ""Ném bóng"", TTCB yêu cầu học sinh đứng hai chân rộng bằng vai, hai tay cầm bóng đưa lên cao ra sau đầu.",0,0.45378151260504207,0.7297297297297297,0,0.5346534653465346,0.36486486486486486
+11,"Trong phần mô tả động tác của bài tập ""Ném bóng"", điều gì sẽ xảy ra khi có hiệu lệnh, và học sinh cần sử dụng bộ phận nào của cơ thể để thực hiện động tác?","Khi có hiệu lệnh, học sinh sẽ **ném bóng qua đầu từ sau ra trước**. Để thực hiện động tác này, các em cần **sử dụng lực của hai tay** (theo mô tả trong phần ""Động tác"" của bài tập ""Ném bóng""). Tư thế chuẩn bị ban đầu là đứng hai chân rộng bằng vai, hai tay cầm bóng đưa lên cao ra sau đầu, sau đó dùng lực từ hai tay để đẩy bóng về phía trước.","Dựa trên thông tin từ cả nguồn knowledge graph và document images, chúng ta có thể tổng hợp lại như sau:
+
+Khi có hiệu lệnh, học sinh sẽ thực hiện động tác ném bóng bằng cách sử dụng lực của hai tay để ném bóng qua đầu từ sau ra trước. Tuy nhiên, thông tin từ knowledge graph cho thấy rằng không có thông tin cụ thể về bài tập ""Ném bóng"" trong dữ liệu đã cung cấp. Điều này có nghĩa là để trả lời câu hỏi một cách chính xác, cần thêm thông tin chi tiết về bài tập này, bao gồm mô tả về các động tác, hiệu lệnh và các bộ phận cơ thể được sử dụng.
+
+Từ góc độ của document images, khi có hiệu lệnh, học sinh sẽ sử dụng lực của hai tay để thực hiện động tác ném bóng. Tuy nhiên, nếu không có thêm thông tin chi tiết về bài tập ""Ném bóng"", chúng ta không thể xác định chính xác các bộ phận cơ thể khác mà học sinh cần sử dụng để thực hiện động tác này.
+
+Vì vậy, để có một đáp án đầy đủ và chính xác nhất, cần phải có thêm thông tin chi tiết về bài tập ""Ném bóng"". Nếu bạn có thể cung cấp thêm thông tin hoặc mô tả chi tiết hơn về bài tập này, tôi sẽ rất vui lòng giúp bạn phân tích và trả lời câu hỏi của bạn.","Khi có hiệu lệnh, học sinh dùng lực của hai tay ném bóng qua đầu từ sau ra trước.",0,0.3058103975535168,0.6410256410256411,0,0.3917525773195876,0.24358974358974358
+12,"Theo định nghĩa trong ảnh, yếu tố nào gây nên hiện tượng đồng phân trong hóa học hữu cơ?","Theo định nghĩa được nêu trong hình ảnh, **nguyên nhân gây nên hiện tượng đồng phân trong hóa học hữu cơ** là:  
+- **Sự thay đổi trật tự liên kết** (cách các nguyên tử liên kết với nhau trong phân tử).  
+- **Cách thức liên kết giữa các nguyên tử** (ví dụ: liên kết đơn, đôi, ba hoặc vị trí nhóm chức).  
+- **Vị trí không gian của các nguyên tử, nhóm nguyên tử** (đồng phân hình học hoặc quang học).  
+
+Tóm lại, đồng phân xảy ra do **sự khác biệt về cấu tạo phân tử** (cấu trúc mạch carbon, vị trí nhóm chức) hoặc **sự khác biệt về sắp xếp không gian** của các nguyên tử/nhóm nguyên tử, dù chúng có cùng công thức phân tử.","Theo định nghĩa trong ảnh, hiện tượng đồng phân trong hóa học hữu cơ được gây ra bởi sự thay đổi trật tự liên kết, cách thức liên kết giữa các nguyên tử trong phân tử hoặc vị trí không gian của các nguyên tử, nhóm nguyên tử. Điều này được thể hiện qua khái niệm ""Động phân mạch carbon"" trong knowledge graph, nơi mô tả rằng ""Động phân mạch carbon"" là một概念指代分子具有相同分子式但结构不同的异构体。
+
+Vì vậy, yếu tố chính gây nên hiện tượng đồng phân trong hóa học hữu cơ bao gồm sự khác biệt về cấu trúc của các phân tử có cùng công thức phân tử, cũng như sự thay đổi trật tự liên kết, cách thức liên kết giữa các nguyên tử trong phân tử hoặc vị trí không gian của các nguyên tử, nhóm nguyên tử.","Yếu tố gây nên hiện tượng đồng phân trong hóa học hữu cơ là sự thay đổi trật tự liên kết, cách thức liên kết giữa các nguyên tử hoặc vị trí không gian của các nguyên tử, nhóm nguyên tử.",0,0.6818181818181818,0.72,0,0.4698795180722891,0.312
+13,"Trong ví dụ về đồng phân, chất CH3-CH2-CH2-CH3 và CH3-CH(CH3)-CH3 là ví dụ về loại đồng phân nào?","Theo ví dụ trong hình, chất **CH₃-CH₂-CH₂-CH₃** (butan) và **CH₃-CH(CH₃)-CH₃** (2-metylpropan) là ví dụ về **đồng phân mạch carbon**. 
+
+### Giải thích:
+- Cả hai chất đều có cùng công thức phân tử **C₄H₁₀** nhưng khác nhau về **cấu tạo mạch cacbon**:
+  - **Butan** có mạch cacbon thẳng.
+  - **2-Metylpropan** có mạch cacbon nhánh (một nhóm -CH₃ gắn vào nguyên tử cacbon thứ 2).
+- Đây là đặc điểm của **đồng phân mạch carbon** (đồng phân do sự khác biệt trong cách sắp xếp mạch cacbon), được liệt kê ở dòng đầu tiên trong bảng ""Ví dụ 5"" của hình ảnh. 
+
+Các loại đồng phân khác như **đồng phân loại nhóm chức** (ví dụ: ancol và ete) hay **đồng phân vị trí nhóm chức** không áp dụng trong trường hợp này vì cả hai chất đều thuộc cùng một loại hợp chất (ankan) và không có nhóm chức khác biệt.","Trong câu hỏi của bạn, hai chất CH3-CH2-CH2-CH3 và CH3-CH(CH3)-CH3 được đề cập đến như là ví dụ về loại đồng phân nào. Để trả lời chính xác, chúng ta cần phân tích thông tin từ cả nguồn kiến thức và hình ảnh tài liệu.
+
+**Từ Knowledge Graph:**
+Theo kiến thức từ Knowledge Graph, hai chất CH3-CH2-CH2-CH3 và CH3-CH(CH3)-CH3 đều là các đồng phân của nhau. Cụ thể, chúng là hai loại đồng phân mạch carbon. Cấu trúc của chúng khác nhau như sau:
+- CH3-CH2-CH2-CH3 có cấu trúc thẳng với các nguyên tử carbon liên kết theo thứ tự CH3-C-CH2-C-CH3.
+- CH3-CH(CH3)-CH3 cũng có cấu trúc thẳng nhưng khác biệt ở chỗ có một nhóm methyl (CH3) ở giữa chuỗi carbon.
+
+Cả hai đều có công thức phân tử CH4H10 (tức là 5 nguyên tử carbon và 12 nguyên tử hydro), nhưng cấu trúc của chúng khác nhau. Điều này cho thấy chúng là các đồng phân của nhau, cụ thể là đồng phân mạch carbon.
+
+**Từ Document Images:**
+Theo thông tin từ hình ảnh tài liệu, hai chất CH₃-CH₂-CH₂-CH₃ và CH₃-CH(CH₃)-CH₃ được mô tả là ví dụ về loại đồng phân vị trí nhóm chức.
+
+**Tổng hợp và Kết luận:**
+Cả hai nguồn thông tin đều cung cấp thông tin về hai chất CH3-CH2-CH2-CH3 và CH3-CH(CH3)-CH3, nhưng định nghĩa về loại đồng phân khác nhau. Tuy nhiên, khi chúng ta xem xét cấu trúc và công thức phân tử của hai chất này, chúng ta thấy rằng chúng đều là các đồng phân mạch carbon. Cấu trúc của chúng khác nhau, nhưng đều có cùng công thức phân tử CH4H10.
+
+Vì vậy, để đáp ứng chính xác cho câu hỏi của bạn, hai chất CH3-CH2-CH2-CH3 và CH3-CH(CH3)-CH3 là ví dụ về đồng phân mạch carbon.",Đồng phân loại nhóm chức,0,0.38524590163934425,0.6143790849673203,0,0.06329113924050632,0.032679738562091505
+14,Bài tập 2 yêu cầu làm gì và có bao nhiêu công thức cấu tạo được đưa ra để lựa chọn?,"Bài tập 2 yêu cầu **xác định những công thức cấu tạo nào biểu diễn cùng một chất** (đồng phân cấu tạo hoặc cùng một hợp chất).  
+Có **6 công thức cấu tạo** được đưa ra để lựa chọn, đánh số từ **(1) đến (6)**.","Theo thông tin từ hình ảnh tài liệu, bài tập 2 yêu cầu tìm hiểu về các công thức cấu tạo của các chất đồng phân. Có tổng cộng 9 công thức cấu tạo được đưa ra để lựa chọn:
+
+1. H₂C-CH₂
+2. H-H
+3. H-H
+4. OH
+5. C-OH
+6. C-CH₃
+7. H-H
+8. C-Cl
+9. Cl
+
+Tuy nhiên, thông tin về bài tập 2 và các công thức cấu tạo được đề cập trong câu hỏi của bạn không được cung cấp trong dữ liệu mà bạn đã chia sẻ. Để trả lời câu hỏi này chính xác, tôi cần thêm thông tin chi tiết hơn về bài tập 2 và các công thức cấu tạo liên quan. Bạn có thể cung cấp thêm thông tin hoặc mô tả rõ ràng hơn về bài tập 2 mà bạn đang thắc mắc không?",Bài tập 2 yêu cầu tìm công thức cấu tạo của các chất đồng phân. Có 6 công thức cấu tạo được đưa ra để lựa chọn.,0,0.3061224489795918,0.6666666666666666,0,0.6666666666666667,0.5333333333333333
+15,Tiên đề Euclid được trình bày trong bài học này phát biểu như thế nào về đường thẳng song song?,"Theo bài học, Tiên đề Euclid được trình bày như sau:  
+**""Qua một điểm ở ngoài một đường thẳng, chỉ có một đường thẳng song song với đường thẳng đó.""**  
+
+Đây là nội dung chính của tiên đề Euclid về đường thẳng song song được nêu trong phần **""KIẾN THỨC CẦN NHỚ""** (mục A) của bài 10.","Tiên đề Euclid được trình bày trong bài học này phát biểu như sau:
+
+""Điều 5: Hai đường thẳng song song không bao giờ cắt nhau.""
+
+Đây là tiên đề quan trọng của Euclid, nó xác định tính chất của hai đường thẳng song song. Nó cho thấy rằng hai đường thẳng song song không bao giờ giao nhau, mà chỉ tiếp xúc với nhau ở một điểm duy nhất tại vô cùng xa. Điều này giúp định nghĩa và phân biệt các đường thẳng song song với các đường thẳng khác.
+
+Từ tiên đề này, Euclid đã có thể chứng minh nhiều định lý về hình học, bao gồm việc chứng minh rằng tổng các góc nội tiếp của một tam giác luôn bằng 180 độ.
+
+Tuy nhiên, trong bài học này, tiên đề Euclid cũng được trình bày thêm một thông tin bổ sung từ các hình ảnh tài liệu:
+
+""Tiên đề Euclid được trình bày trong bài học này phát biểu rằng qua một điểm ở ngoài một đường thẳng, chỉ có một đường thẳng song song với đường thẳng đó.""
+
+Điều này cho thấy tiên đề Euclid không chỉ mô tả tính chất của hai đường thẳng song song mà còn giới hạn số lượng đường thẳng song song có thể đi qua một điểm nhất định. Điều này làm rõ hơn về tính chất độc quyền của đường thẳng song song, tức là qua một điểm nhất định chỉ có một đường thẳng song song với một đường thẳng cố định khác.
+
+Vì vậy, để trả lời câu hỏi của bạn, tiên đề Euclid được trình bày trong bài học này phát biểu về đường thẳng song song như sau:
+
+1. Hai đường thẳng song song không bao giờ cắt nhau.
+2. Qua một điểm ở ngoài một đường thẳng, chỉ có một đường thẳng song song với đường thẳng đó.
+
+Cả hai thông tin này đều cung cấp cái nhìn đầy đủ về tiên đề Euclid liên quan đến đường thẳng song song.","Qua một điểm ở ngoài một đường thẳng, chỉ có một đường thẳng song song với đường thẳng đó.",0,0.2272727272727273,0.7894736842105263,0,0.5,0.3333333333333333
+16,"Khi một đường thẳng cắt hai đường thẳng song song, các góc so le trong và các góc đồng vị có mối quan hệ như thế nào?","Khi một đường thẳng cắt hai đường thẳng song song, theo nội dung bài học:
+- **Hai góc so le trong bằng nhau**.
+- **Hai góc đồng vị bằng nhau**.
+
+Đây là tính chất cơ bản được nêu rõ trong phần ""Kiến thức cần nhớ"" của bài 10.","Khi một đường thẳng cắt hai đường thẳng song song, các góc so le trong và các góc đồng vị có mối quan hệ cụ thể như sau:
+
+1. **Các góc so le trong**: Khi một đường thẳng cắt hai đường thẳng song song, các góc so le trong luôn bằng nhau. Điều này có nghĩa là nếu bạn lấy một đường thẳng cắt hai đường thẳng song song, các góc so le trong ở mỗi cặp sẽ có cùng giá trị.
+
+2. **Các góc đồng vị**: Các góc đồng vị cũng luôn bằng nhau khi một đường thẳng cắt hai đường thẳng song song. Các góc đồng vị nằm ở vị trí tương ứng trên hai đường thẳng song song và trên đường thẳng cắt.
+
+Ví dụ cụ thể:
+- Nếu đường thẳng cắt hai đường thẳng song song tạo thành các góc so le trong là A và B, thì A = B.
+- Nếu đường thẳng cắt hai đường thẳng song song tạo thành các góc đồng vị là C và D, thì C = D.
+
+Tóm lại, mối quan hệ giữa các góc so le trong và các góc đồng vị khi một đường thẳng cắt hai đường thẳng song song là: các góc so le trong và các góc đồng vị luôn bằng nhau.","Các góc so le trong bằng nhau, các góc đồng vị cũng bằng nhau.",0,0.19157088122605365,0.5434782608695652,0,0.36666666666666664,0.2391304347826087
+17,"Nếu một đường thẳng vuông góc với một trong hai đường thẳng song song, thì nó có quan hệ như thế nào với đường thẳng còn lại?","Nếu một đường thẳng vuông góc với một trong hai đường thẳng song song thì nó **cũng vuông góc với đường thẳng còn lại**. 
+
+Điều này được nêu rõ trong phần **Kiến thức cần nhớ** của bài học:  
+*""Nếu một đường thẳng vuông góc với một trong hai đường thẳng song song thì nó cũng vuông góc với đường thẳng kia.""*","The question you've asked pertains to a fundamental concept in geometry, specifically related to the properties of parallel lines and perpendicular lines. According to Euclid's Elements, if two lines are parallel, then any line that is perpendicular to one of these lines will also be perpendicular to the other.
+
+Here's a breakdown of the relevant information:
+
+1. **Euclid's Theorem**: In Euclidean geometry, if two lines are parallel, then any line that is perpendicular to one of these lines will also be perpendicular to the other. This is a direct consequence of the definition of parallel lines and the properties of perpendicularity.
+
+2. **Visual Representation**: Although the document images you've referenced do not explicitly show diagrams or visual representations, the underlying principle can be understood through geometric diagrams. Typically, such a scenario would involve drawing two parallel lines and a third line that intersects both of them at right angles. The third line will intersect each of the parallel lines at right angles.
+
+Therefore, if a line is perpendicular to one of two parallel lines, it will also be perpendicular to the other parallel line. This relationship holds true regardless of the specific configuration shown in the document images, as long as the lines are parallel and the third line is perpendicular to one of them.","Nếu một đường thẳng vuông góc với một trong hai đường thẳng song song, thì nó cũng vuông góc với đường thẳng kia.",0,0.0,0.0,0,0.5476190476190476,0.3770491803278688
+18,"Hình 14.3 trong ảnh mô tả điều gì và dòng chữ ""Vẽ mờ"" có ý nghĩa gì trong ngữ cảnh của bản vẽ kỹ thuật này?","**Hình 14.3** trong ảnh mô tả **quy trình vẽ các đường phụ trợ (đường construction) hoặc đường định hướng nhẹ** trong bản vẽ kỹ thuật. Đây là những đường được vẽ **mờ** (nhạt, không đậm) để hỗ trợ việc xác định vị trí, kích thước, hoặc mối quan hệ giữa các chi tiết trước khi hoàn thiện bản vẽ chính. Các đường này thường được dùng để:
+- Định tâm, căn chỉnh các phần tử (ví dụ: trục đối xứng, tâm lỗ).
+- Vẽ phác thảo sơ bộ trước khi vẽ đường nét chính.
+- Thể hiện các yếu tố ẩn hoặc tạm thời trong quá trình thiết kế.
+
+**Ý nghĩa của ""Vẽ mờ""** trong ngữ cảnh này:
+- **""Vẽ mờ""** (hay ""vẽ nhẹ"") chỉ cách thức vẽ các đường dẫn hướng **không phải là đường nét chính** của bản vẽ. Những đường này thường được thực hiện bằng bút chì nhạt (hoặc công cụ kỹ thuật số với độ đậm thấp) để dễ dàng xóa/sửa chữa sau này.
+- Trong bản vẽ kỹ thuật chuẩn, các đường ""mờ"" này **sẽ bị loại bỏ hoặc làm mờ tối đa** ở bản vẽ cuối cùng, chỉ giữ lại các đường nét chính (đậm, rõ ràng) thể hiện hình dáng và kích thước chi tiết của vật thể.
+- Mục đích: Đảm bảo tính chính xác khi bố trí các yếu tố trên bản vẽ mà không làm rối mắt người đọc bản vẽ cuối cùng.
+
+**Phân biệt với các khái niệm khác**:
+- Không nhầm lẫn với **đường nét đứt** (thể hiện cạnh khuất) – đây là đường nét có quy ước riêng, luôn xuất hiện trên bản vẽ hoàn chỉnh.
+- ""Vẽ mờ"" chủ yếu liên quan đến **quy trình vẽ tay** (truyền thống), nơi người vẽ cần các đường dẫn hướng trước khi hoàn thiện.
+
+→ Tóm lại, Hình 14.3 minh họa kỹ thuật vẽ các đường phụ trợ ""mờ"" để hỗ trợ quá trình thiết kế, và ""Vẽ mờ"" nhấn mạnh tính tạm thời, không chính thức của những đường này trong bản vẽ kỹ thuật.","Dựa trên thông tin từ Knowledge Graph và Document Images, chúng ta có thể tổng hợp như sau:
+
+1. **Knowledge Graph**: Hình 14.3 được mô tả là một hình vẽ mở, có thể đại diện cho một thiết kế kỹ thuật hoặc kiến trúc. Tuy nhiên, thông tin cụ thể về nội dung của hình vẽ này không được cung cấp trong dữ liệu hiện có. Dòng chữ ""Vẽ mờ"" có thể chỉ là một phần của tiêu đề hoặc mô tả của hình vẽ, nhưng không rõ ràng về ý nghĩa chính xác của nó trong ngữ cảnh của bản vẽ kỹ thuật này. Để hiểu rõ hơn, cần phải xem xét thêm các thông tin liên quan đến hình vẽ hoặc có thêm thông tin từ nguồn khác.
+
+2. **Document Images**: Tuy nhiên, do không có hình ảnh cụ thể để phân tích, chúng ta không thể xác định thông tin cụ thể từ các hình ảnh được cung cấp. Điều này có nghĩa là chúng ta không thể đưa ra một phân tích chi tiết về nội dung hình 14.3 hay ý nghĩa của dòng chữ ""Vẽ mờ"" dựa trên thông tin từ hình ảnh.
+
+Tóm lại, mặc dù Knowledge Graph đã cung cấp một số thông tin về hình 14.3, nhưng do không có hình ảnh cụ thể để phân tích, chúng ta không thể đưa ra một phân tích chi tiết về nội dung hình 14.3 hay ý nghĩa của dòng chữ ""Vẽ mờ"". Để hiểu rõ hơn, cần phải xem xét thêm các thông tin liên quan đến hình vẽ hoặc có thêm thông tin từ nguồn khác.","Hình 14.3 mô tả một chi tiết cơ khí, và dòng chữ ""Vẽ mờ"" chỉ ra các đường nét không quan trọng hoặc không cần thiết cho việc đo lường hoặc chế tạo chi tiết đó.",0,0.31987075928917613,0.2903225806451613,0,0.12698412698412698,0.07038123167155426
+19,"Hình 14.2 trong ảnh thể hiện điều gì và cụm từ ""Bố trí hình biểu diễn"" ám chỉ điều gì trong quy trình thiết kế kỹ thuật?","**Hình 14.2** trong ảnh thể hiện **bố cục các hình chiếu (view arrangement)** của một chi tiết máy, bao gồm các hình chiếu chính như mặt trước, mặt trên, mặt bên... được sắp xếp theo nguyên tắc chuẩn trong bản vẽ kỹ thuật. Các đường nét và ký hiệu (như trục đối xứng, đường tâm) cho thấy cách thức trình bày các góc nhìn cần thiết để mô tả đầy đủ hình dạng và kích thước của chi tiết.
+
+**Cụm từ ""Bố trí hình biểu diễn""** ám chỉ **quy trình sắp xếp các hình chiếu trên bản vẽ** trong giai đoạn thiết kế kỹ thuật. Điều này bao gồm:  
+1. **Lựa chọn hình chiếu phù hợp**: Xác định các góc nhìn (mặt trước, mặt trên, mặt cắt...) cần thiết để thể hiện rõ cấu trúc chi tiết mà không gây hiểu lầm.  
+2. **Tuân thủ tiêu chuẩn**: Đảm bảo vị trí tương đối giữa các hình chiếu (ví dụ: mặt trên nằm phía trên mặt trước, mặt bên phải nằm bên phải mặt trước) theo quy ước quốc tế (ISO/ANSI), giúp người đọc dễ dàng liên tưởng không gian 3D từ bản vẽ 2D.  
+3. **Tối ưu hóa bố cục**: Tránh chồng chéo, đảm bảo khoảng cách hợp lý giữa các hình chiếu để bản vẽ rõ ràng, dễ đọc và tiết kiệm diện tích giấy.  
+
+Trong quy trình thiết kế, bước này rất quan trọng vì nó quyết định tính **chính xác** và **hiệu quả truyền đạt thông tin** từ kỹ sư đến người chế tạo. Nếu bố trí hình biểu diễn sai, có thể dẫn đến hiểu lầm về hình dáng chi tiết, gây lỗi trong sản xuất.","Hình 14.2 trong ảnh thể hiện một bố trí hình biểu diễn cho một chi tiết kỹ thuật cụ thể. Bố trí hình biểu diễn là bước đầu tiên trong quy trình thiết kế kỹ thuật, nơi mà các kỹ sư hoặc thiết kế viên xác định cách các phần của một sản phẩm sẽ được sắp xếp và kết nối với nhau. Cụm từ ""Bố trí hình biểu diễn"" trong quy trình thiết kế kỹ thuật thường ám chỉ việc sắp xếp và trình bày các thành phần của một thiết kế để tạo ra một hình ảnh tổng quát hoặc biểu diễn rõ ràng hơn về cấu trúc hoặc chức năng của thiết kế đó. Điều này giúp cho việc hiểu rõ hơn về cách các phần của thiết kế tương tác với nhau và hỗ trợ quá trình thiết kế kỹ thuật.
+
+Tuy nhiên, thông tin từ Knowledge Graph chỉ đề cập đến Hình 14.3, nên có thể Hình 14.2 có thể là một hình vẽ khác hoặc có một ý nghĩa khác biệt so với thông tin đã được cung cấp. Để có thông tin chính xác nhất, cần xem xét lại hình ảnh cụ thể của Hình 14.2.","Hình 14.2 trong ảnh thể hiện bố trí các hình vẽ chi tiết của một bộ phận kỹ thuật. Cụm từ ""Bố trí hình biểu diễn"" ám chỉ việc sắp xếp và trình bày các hình vẽ chi tiết một cách rõ ràng và hợp lý để dễ dàng hiểu và thực hiện sản xuất.",0,0.4171779141104295,0.3617021276595745,0,0.3017751479289941,0.18085106382978725
+20,"Dòng chữ ""Chủ đề 4 | 67"" ở chân trang có ý nghĩa gì và nó liên quan đến nội dung của các hình vẽ kỹ thuật như thế nào?","Dòng chữ **""Chủ đề 4 | 67""** ở chân trang là thông tin định vị nội dung trong tài liệu giáo khoa hoặc sách chuyên ngành, với ý nghĩa cụ thể như sau:  
+- **""Chủ đề 4""**: Chỉ phần nội dung thuộc **chương/trường hợp học tập thứ 4** trong tài liệu (ví dụ: chủ đề về ""Nguyên tắc trình bày bản vẽ kỹ thuật"", ""Cách bố trí hình chiếu"", hoặc ""Kỹ thuật vẽ mờ"").  
+- **""67""**: Là **số trang** của tài liệu, giúp người đọc xác định vị trí chính xác của hình vẽ trong sách.  
+
+### Mối liên hệ với nội dung hình vẽ kỹ thuật:  
+1. **Tính hệ thống**: Các hình vẽ (Hình 14.2, 14.3) thuộc **Chủ đề 4**, cho thấy chúng là ví dụ minh họa cho lý thuyết được trình bày trong phần này. Ví dụ:  
+   - Hình 14.2 (""Bố trí hình biểu diễn"") giải thích cách sắp xếp các hình chiếu (đứng, cạnh, bằng) để thể hiện vật thể.  
+   - Hình 14.3 (""Vẽ mờ"") hướng dẫn kỹ thuật vẽ đường khuất hoặc chi tiết không nhìn thấy trực tiếp.  
+2. **Tính tham chiếu**: Số trang **67** giúp người học tra cứu nhanh lý thuyết liên quan (như quy tắc bố cục bản vẽ, tiêu chuẩn đường nét) đi kèm với các ví dụ minh họa này.  
+
+### Ý nghĩa tổng thể:  
+Đây là cách tổ chức nội dung **khoa học** trong tài liệu đào tạo kỹ thuật, đảm bảo người đọc dễ dàng kết nối giữa lý thuyết (trong ""Chủ đề 4"") và thực hành (qua các hình vẽ mẫu). Điều này đặc biệt quan trọng trong lĩnh vực vẽ kỹ thuật, nơi việc tuân thủ tiêu chuẩn và phương pháp trình bày là yếu tố cốt lõi.","Dòng chữ ""Chủ đề 4 | 67"" ở chân trang thường được sử dụng để chỉ mục hoặc định danh một phần cụ thể trong tài liệu, sách giáo khoa hay tài liệu học tập. Trong trường hợp này, ""Chủ đề 4"" có thể là tên hoặc tiêu đề của một chủ đề hoặc chương trong tài liệu mà bạn đang tham khảo, và ""67"" có thể là số trang hoặc vị trí cụ thể của phần đó trong tài liệu.
+
+Để hiểu rõ hơn về ý nghĩa của dòng chữ này và cách nó liên quan đến nội dung của các hình vẽ kỹ thuật, chúng ta cần phải xem xét thêm thông tin từ các hình ảnh và văn bản liên quan đến chủ đề 4. Dòng chữ này có thể chỉ ra rằng hình vẽ kỹ thuật có liên quan đến chủ đề 4, hoặc nó có thể chỉ ra vị trí cụ thể của hình vẽ đó trong tài liệu.
+
+Vì vậy, để có câu trả lời chính xác nhất, bạn nên xem xét toàn bộ nội dung của hình vẽ kỹ thuật và văn bản liên quan đến chủ đề 4 để hiểu rõ hơn về mối quan hệ giữa chúng. Nếu bạn có thể cung cấp thêm thông tin về nội dung của hình vẽ kỹ thuật, tôi sẽ có thể giúp bạn phân tích và giải thích rõ hơn.","Dòng chữ ""Chủ đề 4 | 67"" ở chân trang chỉ ra chủ đề đang được thảo luận và số trang hiện tại trong sách hoặc tài liệu. Nó không liên quan trực tiếp đến nội dung của các hình vẽ kỹ thuật.",0,0.46387832699619774,0.41924398625429554,0,0.21021021021021022,0.12027491408934708
+21,"Bài hát ""Bay cao tiếng hát ước mơ"" yêu cầu người hát phải thể hiện những sắc thái nào, và người hát cần thực hiện những hoạt động gì để phù hợp với bài hát?","Theo nội dung trong hình ảnh, bài hát **""Bay cao tiếng hát ước mơ""** yêu cầu người hát thực hiện các yêu cầu sau:
+
+### **1. Sắc thái cần thể hiện khi hát:**
+- **Cao độ chính xác**: Đảm bảo nốt nhạc được ngân đúng cao độ.
+- **Trường độ đúng**: Tuân thủ đúng thời lượng của từng nốt nhạc (ngắn/dài).
+- **Sắc thái biểu cảm**: Thể hiện cảm xúc phù hợp với nội dung bài hát (ví dụ: ""Nhanh vui – Tự hào – Trong sáng"" như ghi chú dưới phần nhạc).
+- **Lời ca rõ ràng**: Phát âm chuẩn, truyền tải trọn vẹn ý nghĩa lời bài hát.
+
+### **2. Hoạt động cần thực hiện để phù hợp với bài hát:**
+- **Kết hợp gõ đệm**: Vừa hát vừa gõ nhịp (ví dụ: gõ theo phách hoặc tiết tấu đơn giản).
+- **Đánh nhịp**: Sử dụng cử chỉ tay để giữ đúng nhịp điệu (2/4 như trong bản nhạc).
+- **Vận động theo nhạc**: Di chuyển cơ thể hoặc thực hiện động tác phù hợp với giai điệu (ví dụ: lắc lư, vỗ tay theo nhịp).
+
+### **Lưu ý thêm:**
+- Bài hát thuộc thể loại **hợp xướng**, đòi hỏi sự phối hợp ăn ý giữa các giọng hát.
+- Cần phân biệt đặc điểm của nhịp **6/8** (so sánh với nhịp 3/8) để thể hiện đúng tính chất nhẹ nhàng, bay bổng của bài.
+
+Những yêu cầu này giúp người hát truyền tải trọn vẹn thông điệp **""Ước mơ""** và **""Tự hào""** qua giai điệu sôi nổi, trẻ trung của bài hát.","Dựa trên thông tin từ cả nguồn dữ liệu知识图谱和文档图像，关于歌曲“Bay cao tiếng hát ước mơ”，以下是对演唱者的要求：
+
+**Sắc thái cần thể hiện:**
+- Cao độ: Người hát cần hát đúng cao độ của bài hát.
+- Trường độ: Người hát cần hát đúng trường độ của bài hát.
+- Sắc thái: Người hát cần thể hiện đúng sắc thái của bài hát.
+
+**Hoạt động cần thực hiện:**
+- Hát: Người hát cần hát đúng cao độ, trường độ, sắc thái và lời ca bài ""Bay cao tiếng hát ước mơ"". Ngoài ra, người hát cần biết hát kết hợp gõ đệm, đánh nhịp hoặc vận động theo nhạc.
+
+Tóm lại, người hát cần thể hiện những sắc thái cao độ, trường độ và sắc thái của bài hát, đồng thời thực hiện các hoạt động như hát, hát kết hợp gõ đệm, đánh nhịp hoặc vận động theo nhạc để phù hợp với bài hát ""Bay cao tiếng hát ước mơ"".","Bài hát ""Bay cao tiếng hát ước mơ"" yêu cầu người hát phải thể hiện những sắc thái cao độ, trường độ, sắc thái và lời của bài hát. Người hát cần hát đúng cao độ, trường độ, sắc thái và lời bài hát, biết hát kết hợp gõ đệm, đánh nhịp hoặc vận động theo nhạc.",0,0.441747572815534,0.3568627450980392,0,0.3205128205128205,0.19607843137254902
+22,"Ngoài việc cảm nhận vẻ đẹp của tác phẩm ""Ca ngợi Tổ quốc"", người học còn cần thực hiện những hoạt động nào khác khi nghe nhạc theo yêu cầu của bài học?","Theo yêu cầu của bài học, ngoài việc cảm nhận vẻ đẹp của tác phẩm **""Ca ngợi Tổ quốc""**, người học còn cần thực hiện các hoạt động sau khi nghe nhạc:  
+- **Vận động cơ thể** (di chuyển theo nhịp điệu của bài hát).  
+- **Gõ đệm** (tạo nhịp bằng tay, chân hoặc dụng cụ đơn giản) **phù hợp với nhịp điệu** của tác phẩm.  
+
+Đây là yêu cầu được nêu rõ trong phần **""Nghe nhạc""** của Bài 11: *""Cảm nhận được vẻ đẹp của tác phẩm Ca ngợi Tổ quốc; biết vận động cơ thể hoặc gõ đệm phù hợp với nhịp điệu.""*","Khi nghe nhạc tác phẩm ""Ca ngợi Tổ quốc"", người học cần thực hiện những hoạt động sau:
+
+1. Biết vận động cơ thể hoặc gõ đệm phù hợp với nhịp điệu.
+2. Cảm nhận được vẻ đẹp của tác phẩm ""Ca ngợi Tổ quốc"".
+
+Những hoạt động này nhằm giúp người học không chỉ tiếp thu kiến thức về tác phẩm mà còn tham gia tích cực vào quá trình học tập, đồng thời rèn luyện kỹ năng cảm thụ âm nhạc và thể chất.","Ngoài việc cảm nhận vẻ đẹp của tác phẩm ""Ca ngợi Tổ quốc"", người học cần biết vận động cơ thể hoặc gõ đệm phù hợp với nhịp điệu.",0,0.5291005291005292,0.4854368932038835,0,0.4393939393939394,0.2815533980582524
+23,"Theo yêu cầu của bài học, người học cần nêu được những đặc điểm gì về thể loại hợp xướng, và cần phân biệt được những hình thức ca hát nào?","Theo yêu cầu của bài học, người học cần:  
+- **Nêu được đặc điểm và tác dụng của thể loại hợp xướng**:  
+  + Đặc điểm: Hợp xướng là hình thức biểu diễn bằng nhiều giọng (thường chia thành các nhóm cao, trung, trầm), kết hợp hài hòa giữa các phần giọng, tạo nên sự phong phú về âm sắc và chiều sâu cảm xúc.  
+  + Tác dụng: Thể hiện được nội dung đa dạng, truyền tải thông điệp mạnh mẽ, phù hợp với các chủ đề mang tính cộng đồng hoặc hoành tráng.  
+
+- **Phân biệt được hát hợp xướng với các hình thức ca hát khác**:  
+  Cần nhận biết sự khác biệt giữa hợp xướng (nhiều người cùng hát với sự phối hợp các giọng) và các hình thức như đơn ca (một người hát), song ca (hai người), tam ca (ba người), hoặc các thể loại ca hát có kết hợp vũ đạo, gõ đệm...  
+
+Thông tin này được trích dẫn trực tiếp từ mục **""Thường thức âm nhạc""** trong bài học.","Dựa trên thông tin từ Knowledge Graph và các đoạn văn bản liên quan đến bài học ""Bài 11"", người học cần nắm bắt những đặc điểm chính về thể loại hợp xướng và phân biệt các hình thức ca hát khác nhau. Dưới đây là những thông tin chi tiết:
+
+### Đặc Điểm Về Thể Loại Hợp Xướng
+1. **Đặc Điểm Cốt Lõi**: Hợp xướng là một thể loại ca hát tập thể, nơi nhiều người cùng hát một bài hát với các phần khác nhau. Mỗi người hát một phần riêng biệt, thường là các phần khác nhau của bài hát như cao, trung, thấp hoặc các phần phụ trợ.
+
+2. **Các Phân Tách Nhóm Ca Hát**: Trong hợp xướng, thường có các nhóm ca hát được phân chia dựa trên giọng ca, bao gồm:
+   - **Ca cao**: Người hát giọng ca cao.
+   - **Ca trung**: Người hát giọng trung.
+   - **Ca thấp**: Người hát giọng thấp.
+   - **Phụ trợ**: Các phần phụ trợ như đàn, trống, v.v.
+
+3. **Tính Đa Dạng**: Hợp xướng không chỉ giới hạn ở việc hát mà còn bao gồm các yếu tố như biểu diễn, trang phục, và thậm chí cả các yếu tố nghệ thuật khác.
+
+### Phân Biệt Các Hình Thức Ca Hát
+1. **Hợp Xướng**: Như đã nêu trên, hợp xướng là một thể loại ca hát tập thể, nơi nhiều người cùng hát một bài hát với các phần khác nhau.
+
+2. **Ca Hát Solo**: Đây là hình thức ca hát đơn lẻ, nơi một người hát một bài hát hoàn toàn độc lập với các phần khác.
+
+3. **Ca Hát Nhóm**: Là hình thức ca hát tập thể nhưng không phải là hợp xướng, mà là các nhóm nhỏ hơn, thường hát cùng một bài hát.
+
+4. **Ca Hát Nhóm Hợp Xướng**: Là sự kết hợp giữa ca hát solo và hợp xướng, nơi một số người hát một phần của bài hát, trong khi những người khác hát phần khác.
+
+5. **Ca Hát Nhóm Hợp Xướng Nhỏ**: Là hình thức ca hát tập thể nhỏ hơn so với hợp xướng, thường chỉ gồm một nhóm nhỏ người hát cùng một bài hát.
+
+Với những thông tin trên, người học có thể nắm bắt được những đặc điểm chính về thể loại hợp xướng và phân biệt được các hình thức ca hát khác nhau.","Theo yêu cầu của bài học, người học cần nêu được đặc điểm và cảm nhận được tính chất của nhịp 6/8, so sánh được sự giống nhau, khác nhau giữa nhịp 6/8 và nhịp 3/8. Người học cũng cần phân biệt được hát hợp xướng và các hình thức ca hát khác.",0,0.3765541740674956,0.6235294117647059,0,0.3539823008849558,0.23529411764705882
+24,Ngày hội trong ảnh có những hoạt động trao đổi nào được tổ chức?,"Trong ảnh, ngày hội tái chế có hai hoạt động trao đổi chính được tổ chức:  
+1. **""Đổi rác lấy quà""**: Người tham gia mang rác đến để đổi lấy các phần quà (như hình ảnh một số người đang nhận quà từ bàn có biển ""ĐỔI RÁC LẤY QUÀ"").  
+2. **""Đổi rác lấy cây xanh""**: Người tham gia đổi rác để nhận cây cảnh (thể hiện qua bàn có biển ""ĐỔI RÁC LẤY CÂY XANH"" và nhiều chậu cây được bày bán).  
+
+Cả hai hoạt động đều hướng đến mục tiêu bảo vệ môi trường, khuyến khích mọi người phân loại rác và tích cực tham gia vào các hành động xanh.","The Day in the image features two specific exchange activities organized: ""Swap Trash for Gifts"" and ""Swap Trash for Greenery"". These activities are part of the recycling event held by the school. Additionally, there are general recycling activities where participants engage in recycling waste and planting trees. The exact details of these activities are not fully depicted in the image, but they are part of the broader recycling initiative.",Ngày hội trong ảnh có các hoạt động trao đổi rác lấy quà và rác lấy cây xanh.,0,0.0,0.0,0,0.2748091603053435,0.1592920353982301
+25,Câu nói của em bé gái về việc đổi cây xanh thể hiện điều gì về ý thức bảo vệ môi trường?,"Câu nói của em bé gái: *""Mình vừa góp phần bảo vệ môi trường lại vừa có cây đẹp""* thể hiện **ý thức bảo vệ môi trường tích cực** và **sự thấu hiểu về giá trị kép của hành động cá nhân**:  
+1. **Nhận thức về trách nhiệm cộng đồng**: Em hiểu rằng việc đổi rác lấy cây không chỉ là lợi ích cá nhân (có cây cảnh) mà còn là đóng góp cụ thể vào việc giảm rác thải, tăng cường trồng cây xanh – hành động thiết thực để cải thiện môi trường.  
+2. **Tư duy kết nối hành động với hậu quả**: Em nhận ra mối liên hệ giữa việc xử lý rác đúng cách và lợi ích lâu dài cho cộng đồng (môi trường sạch đẹp), cho thấy tư duy phát triển bền vững từ sớm.  
+3. **Sự hào hứng với hoạt động có ý nghĩa**: Việc em cảm thấy ""vừa lòng"" khi tham gia cho thấy ý thức bảo vệ môi trường không phải gánh nặng, mà là niềm vui khi được làm điều có ích.  
+
+Qua đó, câu nói phản ánh **tinh thần chủ động, sáng tạo** trong việc lan tỏa lối sống xanh, phù hợp với thông điệp giáo dục môi trường trong nhà trường.","Câu nói của em bé gái ""Minh vừa góp phần bảo vệ môi trường lại vừa có cây đẹp"" cho thấy rằng em bé đã nhận thức được tầm quan trọng của việc bảo vệ môi trường và đồng thời nhận được sự thưởng thức từ việc có thêm cây xanh. Điều này cho thấy em bé có ý thức về việc bảo vệ môi trường và hiểu rằng việc tham gia các hoạt động như đổi cây xanh không chỉ giúp bảo vệ môi trường mà còn mang lại lợi ích cá nhân như việc có thêm cây xanh trong cuộc sống.
+
+Tuy nhiên, thông tin về câu nói cụ thể của em bé gái và ý nghĩa của nó không được cung cấp trong dữ liệu mà bạn đã chia sẻ. Để có thể trả lời câu hỏi này một cách chính xác, chúng ta cần biết cụ thể hơn về nội dung của câu nói đó. Bạn có thể cung cấp thêm thông tin hoặc câu nói cụ thể để tôi có thể giúp bạn phân tích ý thức bảo vệ môi trường từ góc độ của câu nói đó không?",Câu nói của em bé gái về việc đổi cây xanh thể hiện ý thức bảo vệ môi trường thông qua việc tham gia các hoạt động bảo vệ môi trường như trồng cây xanh.,0,0.4888888888888889,0.46919431279620855,0,0.2682926829268293,0.15639810426540285
+26,Người lớn trong ảnh nhận xét gì về sự tham gia của các bạn nhỏ trong ngày hội?,"Trong ảnh, người lớn (cụ thể là một người phụ nữ mặc áo vàng) nhận xét: **""Lớp cháu có nhiều bạn tham gia đây ạ!""**. Điều này thể hiện sự vui mừng và tự hào khi thấy nhiều học sinh tích cực tham gia vào hoạt động cộng đồng, đồng thời phản ánh tinh thần trách nhiệm và ý thức bảo vệ môi trường của các bạn nhỏ. Câu nói cũng cho thấy sự gắn kết giữa nhà trường và cộng đồng trong việc giáo dục trẻ em về lối sống xanh.","Theo thông tin từ ảnh, người lớn đã nhận xét rằng lớp cháu có nhiều bạn tham gia trong ngày hội tái chế. Điều này cho thấy sự tham gia tích cực và đông đảo của các bạn nhỏ trong hoạt động này. Tuy nhiên, thông tin từ knowledge graph cho thấy không có thông tin cụ thể về nhận xét của người lớn về sự tham gia của các bạn nhỏ trong ngày hội. Để có cái nhìn toàn diện hơn, chúng ta cần thêm thông tin hoặc hình ảnh liên quan đến cuộc họp hoặc sự kiện đó.",Lớp cháu có nhiều bạn tham gia đầy đủ!,0,0.37499999999999994,0.391304347826087,0,0.13861386138613863,0.07608695652173914
+27,"Theo kiến thức cần nhớ, những điều kiện nào cho thấy hai đường thẳng a và b song song với nhau?","Theo phần **KIẾN THỨC CẦN NHỚ** (mục A) trong hình ảnh, hai điều kiện để hai đường thẳng **a** và **b** song song với nhau là:
+
+1. **Nếu một đường thẳng \( c \) cắt hai đường thẳng phân biệt \( a \), \( b \) và trong các góc tạo thành có một cặp góc so le trong bằng nhau hoặc một cặp góc đồng vị bằng nhau**, thì \( a \parallel b \).  
+2. **Nếu hai đường thẳng phân biệt cùng vuông góc với một đường thẳng thứ ba**, thì chúng song song với nhau.
+
+Đây là hai dấu hiệu nhận biết hai đường thẳng song song được nêu rõ trong bài học.","Theo kiến thức cần nhớ từ bài học ""BÀI 9 HAI ĐƯỜNG THẲNG SONG SONG VÀ DẤU HIỆU NHẬN BIẾT"" và ""BÀI 10 TIÊN ĐỀ EUCLID. TÍNH CHẤT CỦA HAI ĐƯỜNG THẲNG SONG SONG"", chúng ta có thể xác định các điều kiện sau để nhận biết hai đường thẳng a và b song song:
+
+1. **Điểm giao nhau không tồn tại**: Nếu hai đường thẳng không giao nhau ở bất kỳ điểm nào, tức là chúng không cắt nhau, thì hai đường này được coi là song song.
+
+2. **Đường vuông góc**: Nếu một đường thẳng vuông góc với một trong hai đường thẳng đó cũng vuông góc với đường kia, thì hai đường thẳng đó song song.
+
+3. **Đường song song**: Nếu một đường thẳng song song với một trong hai đường thẳng đó cũng song song với đường kia, thì hai đường thẳng đó song song.
+
+4. **Đường song song với đường song song**: Nếu một đường thẳng song song với một đường khác cũng song song với một đường khác, thì hai đường ban đầu cũng song song.
+
+5. **Đường song song với đường vuông góc**: Nếu một đường thẳng song song với một đường vuông góc với một trong hai đường thẳng đó cũng vuông góc với đường kia, thì hai đường thẳng đó song song.
+
+Những điều kiện trên đều giúp xác định hai đường thẳng a và b song song với nhau.","- Một cặp góc so le trong bằng nhau.
+- Một cặp góc đồng vị bằng nhau.",0,0.4393063583815029,0.7102803738317757,0,0.2459016393442623,0.14018691588785046
+28,"Trong Ví dụ 1, góc so le trong với xMN là góc nào?","Trong Ví dụ 1, góc so le trong với $\widehat{xMN}$ là **$\widehat{MNY'}$**. 
+
+**Giải thích:**  
+- Theo hình 3.7, đường thẳng $mn$ cắt hai đường thẳng $xy$ và $x'y'$.  
+- Góc $\widehat{xMN}$ nằm ở phía trên đường $xy$ và bên trái đường $mn$.  
+- Góc so le trong với nó phải nằm ở phía dưới đường $x'y'$ và bên phải đường $mn$, chính là $\widehat{MNY'}$ (như phần **Giải** đã nêu).  
+
+Đây là ví dụ minh họa cho định nghĩa: *hai góc so le trong* nằm ở hai phía khác nhau của đường cắt ($mn$) và giữa hai đường thẳng bị cắt ($xy$ và $x'y'$).","Trong Ví dụ 1, the specific angle that is corresponding to the angle xMN is indicated as MNY' in the document images. However, it's important to note that without additional context or a visual reference, I cannot confirm if this angle corresponds directly to the angle xMN mentioned in the knowledge graph. The knowledge graph suggests that more details about the figure and angles involved would be necessary to provide an accurate answer.
+
+Given the information from the document images, we can conclude that the angle MNY' is the one that is corresponding to the angle xMN within the context of the example provided. To ensure accuracy, it would be beneficial to have a clear diagram or further explanation that links these angles together.",Góc so le trong với xMN là MNY'.,0,0.06866952789699571,0.07407407407407407,0,0.13793103448275862,0.07407407407407407
+29,"Trong Ví dụ 1, góc đồng vị với mMy là góc nào?",Góc đồng vị với $\widehat{mMy}$ là $\widehat{MNy'}$.,"Trong Ví dụ 1, để xác định góc đồng vị với mMy, chúng ta cần xem xét hình ảnh hoặc văn bản liên quan đến Ví dụ 1. Tuy nhiên, thông tin từ Knowledge Graph cho thấy rằng chúng ta không có đủ thông tin từ các nguồn bạn đã cung cấp để xác định góc đồng vị với mMy. 
+
+Theo thông tin từ Document Images, góc đồng vị với mMy trong Ví dụ 1 là góc MNy'. Điều này cho thấy rằng góc MNy' là góc đồng vị với mMy.
+
+Tóm lại, dựa trên thông tin từ Document Images, góc đồng vị với mMy trong Ví dụ 1 là góc MNy'. Tuy nhiên, nếu bạn có thêm thông tin từ Knowledge Graph hoặc từ hình ảnh hoặc văn bản liên quan đến Ví dụ 1, chúng ta có thể xác nhận hoặc bổ sung thông tin này.",Góc đồng vị với mMy là MNY'.,0,0.089171974522293,0.7777777777777778,0,0.8750000000000001,0.7777777777777778
+30,"Theo nội dung trong ảnh, chị Q và anh H đã sử dụng dịch vụ tín dụng như thế nào, và cách sử dụng của ai được đánh giá là có trách nhiệm hơn?","Theo nội dung trong ảnh, **chị Q** và **anh H** sử dụng dịch vụ tín dụng như sau:  
+
+- **Chị Q**: Sử dụng **dịch vụ thẻ tín dụng** một cách có trách nhiệm. Cụ thể, chị luôn **thanh toán đúng hạn** và thường xuyên nhận được các ưu đãi tín dụng từ ngân hàng.  
+- **Anh H**: Sử dụng **dịch vụ vay thế chấp** nhưng **chưa có trách nhiệm** vì không trả nợ đúng hạn.  
+
+**Cách sử dụng của chị Q được đánh giá là có trách nhiệm hơn**. Lý do:  
+- Việc thanh toán đúng hạn giúp chị Q xây dựng lòng tin với ngân hàng, đồng thời nhận được nhiều ưu đãi (như lãi suất thấp, hạn mức vay cao).  
+- Ngược lại, anh H không trả nợ đúng hạn dẫn đến rủi ro cho ngân hàng và bản thân, thể hiện thiếu trách nhiệm trong quản lý tài chính.  
+
+Điều này phù hợp với nguyên tắc chung về sử dụng dịch vụ tín dụng: **tuân thủ cam kết với ngân hàng** (đóng tiền đúng hạn, sử dụng đúng mục đích) sẽ giúp duy trì uy tín và tiếp cận các dịch vụ thuận lợi hơn.","Theo nội dung trong ảnh, chị Q và anh H đã sử dụng dịch vụ tín dụng theo cách sau:
+
+- Chị Q sử dụng dịch vụ thẻ tín dụng một cách có trách nhiệm. Cô luôn thanh toán đúng hạn và thường xuyên nhận được ưu đãi tín dụng của ngân hàng. Điều này cho thấy cô biết cách quản lý tài chính một cách hiệu quả và có trách nhiệm với việc sử dụng dịch vụ tín dụng.
+
+- Anh H, ngược lại, sử dụng dịch vụ vay thế chấp một cách không có trách nhiệm. Anh không trả nợ đúng hạn, điều này cho thấy anh không thực hiện đúng các nghĩa vụ liên quan đến việc sử dụng dịch vụ tín dụng.
+
+Như vậy, theo phân tích từ ảnh, cách sử dụng của chị Q được đánh giá là có trách nhiệm hơn so với anh H.","Theo nội dung trong ảnh, chị Q sử dụng dịch vụ tín dụng có trách nhiệm hơn so với anh H. Chị luôn thanh toán đúng hạn và thường xuyên nhận được ưu đãi tín dụng từ ngân hàng, trong khi anh H sử dụng dịch vụ vay thế chấp chưa có trách nhiệm vì không trả nợ đúng hạn.",0,0.6588921282798834,0.5824742268041238,0,0.45669291338582674,0.29896907216494845
+31,Ảnh đề xuất những lợi ích nào của việc sử dụng dịch vụ tín dụng một cách có trách nhiệm?,"Theo nội dung trong ảnh, việc sử dụng dịch vụ tín dụng **có trách nhiệm** mang lại các lợi ích sau:  
+1. **Xây dựng lòng tin tín dụng** với tổ chức cấp tín dụng, giúp quá trình vay vốn sau này trở nên dễ dàng hơn.  
+2. **Nhận được nhiều ưu đãi** từ phía ngân hàng hoặc tổ chức tín dụng (ví dụ: lãi suất ưu đãi, hạn mức tín dụng cao hơn).  
+3. **Thể hiện lối sống có trách nhiệm và đáng tin cậy**, góp phần nâng cao uy tín cá nhân trong hệ thống tài chính.  
+
+Điều này được nêu rõ trong phần *Gợi ý trả lời*:  
+*""Sử dụng dịch vụ tín dụng có trách nhiệm sẽ xây dựng lòng tin tín dụng với bên cấp tín dụng, giúp quá trình vay tín dụng trở nên dễ dàng hơn và nhận được nhiều ưu đãi từ bên cấp tín dụng. Đồng thời thể hiện lối sống có trách nhiệm và đáng tin cậy của người sử dụng tín dụng.""*","Dựa trên thông tin từ Knowledge Graph và các đoạn văn bản được cung cấp, dịch vụ tín dụng có thể mang lại nhiều lợi ích cho người sử dụng nếu được sử dụng một cách có trách nhiệm:
+
+1. **Tiện ích tài chính**: Dịch vụ tín dụng cho phép người dùng vay tiền hoặc sử dụng dịch vụ tín dụng để mua sắm hoặc đầu tư mà không cần phải có nguồn vốn sẵn có ngay lập tức. Điều này giúp họ có thể tiếp cận với các cơ hội kinh doanh hoặc nhu cầu tiêu dùng mà không bị giới hạn bởi tài chính hiện tại.
+
+2. **Tăng cường quản lý tài chính**: Khi sử dụng dịch vụ tín dụng một cách có trách nhiệm, người dùng có thể học hỏi về cách quản lý nợ và tài chính cá nhân hiệu quả hơn. Điều này bao gồm việc lập kế hoạch trả nợ, theo dõi chi tiêu và tiết kiệm.
+
+3. **Cơ hội đầu tư**: Một số loại dịch vụ tín dụng cho phép người dùng đầu tư vào các sản phẩm tài chính như trái phiếu, chứng khoán, hoặc quỹ đầu tư. Điều này mở rộng khả năng đầu tư của họ và có thể mang lại lợi nhuận trong dài hạn.
+
+4. **Hỗ trợ tài chính ngắn hạn**: Dịch vụ tín dụng cũng có thể hỗ trợ người dùng trong những tình huống tài chính khẩn cấp, giúp họ có thêm thời gian để tìm kiếm giải pháp tài chính lâu dài.
+
+Tuy nhiên, cần lưu ý rằng việc sử dụng dịch vụ tín dụng không nên vượt quá khả năng thanh toán của người dùng. Việc quản lý nợ và tài chính một cách có trách nhiệm là rất quan trọng để tránh các rủi ro tài chính không mong muốn.","+ Xây dựng lòng tin với bên cung cấp tín dụng.
++ Giúp quá trình vay tín dụng trở nên dễ dàng hơn và nhận được nhiều ưu đãi từ bên cung cấp tín dụng.
++ Đồng thời thể hiện lối sống có trách nhiệm và đáng tin cậy của người sử dụng tín dụng.",0,0.3472803347280335,0.4853801169590643,0,0.44843049327354256,0.29239766081871343
+32,"Theo hướng dẫn trong ảnh, người sử dụng dịch vụ tín dụng cần cân nhắc những yếu tố nào để đảm bảo sử dụng tiền vay một cách phù hợp?","Theo hướng dẫn trong ảnh, người sử dụng dịch vụ tín dụng cần cân nhắc hai yếu tố chính để đảm bảo sử dụng tiền vay phù hợp:  
+1. **Thực hiện đúng cam kết với bên cho vay**: Tuân thủ thời hạn thanh toán, lãi suất và các điều khoản đã thỏa thuận khi vay vốn.  
+2. **Phù hợp với năng lực tài chính cá nhân**: Chỉ vay số tiền và mục đích sử dụng trong khả năng chi trả của bản thân, tránh vượt quá khả năng trả nợ.  
+
+Việc này giúp duy trì uy tín, tránh rủi ro nợ xấu và đảm bảo lối sống có trách nhiệm với dịch vụ tín dụng.","Dựa trên thông tin từ cả knowledge graph và hình ảnh, người sử dụng dịch vụ tín dụng cần cân nhắc những yếu tố sau để đảm bảo sử dụng tiền vay một cách phù hợp:
+
+1. **Nhu cầu tài chính**: Trước khi vay tiền, người dùng nên xác định rõ nhu cầu tài chính của mình. Điều này bao gồm việc xác định số tiền cần vay, mục đích sử dụng và thời gian trả nợ.
+
+2. **Tính khả thi**: Người dùng cần đánh giá xem việc vay tiền có phù hợp với tình hình tài chính hiện tại không. Điều này bao gồm việc kiểm tra khả năng trả nợ hàng tháng và khả năng quản lý chi tiêu.
+
+3. **Phí và lãi suất**: Người dùng cần tìm hiểu về các khoản phí và lãi suất liên quan đến dịch vụ tín dụng. Thông tin này sẽ giúp họ hiểu rõ hơn về tổng chi phí mà họ phải trả cho khoản vay.
+
+4. **Thời hạn trả nợ**: Thời hạn trả nợ cũng là một yếu tố quan trọng cần cân nhắc. Người dùng nên chọn thời hạn trả nợ phù hợp với khả năng tài chính của mình để tránh tình trạng nợ xấu.
+
+5. **Công ty cung cấp dịch vụ**: Người dùng cũng nên nghiên cứu kỹ về công ty cung cấp dịch vụ tín dụng để đảm bảo rằng họ đang sử dụng dịch vụ từ một công ty đáng tin cậy và uy tín.
+
+Những yếu tố này được đề cập trong cả knowledge graph và hình ảnh, giúp người dùng có cái nhìn toàn diện và chính xác nhất về việc sử dụng dịch vụ tín dụng một cách hiệu quả và an toàn.","Theo hướng dẫn trong ảnh, người sử dụng dịch vụ tín dụng cần cân nhắc các yếu tố sau để đảm bảo sử dụng tiền vay một cách phù hợp:
+
+- Thực hiện đúng cam kết về khoản vay, thời hạn thanh toán và lãi suất với bên cho vay tín dụng.
+- Cân nhắc nhu cầu sử dụng tiền vay tín dụng phù hợp với năng lực tài chính cá nhân.",0,0.3891625615763547,0.6869565217391305,0,0.6594594594594595,0.5304347826086957
+33,"Trong bài tập 3a, từ nào trong đoạn văn miêu tả sầu riêng cần điền 'r', 'd' hoặc 'gi' vào chỗ trống?","Trong bài tập 3a, các từ cần điền **r**, **d** hoặc **gi** vào chỗ trống trong đoạn văn miêu tả sầu riêng là:  
+- **""riêng""** (ở hai vị trí: *""Sầu ___iêng""*),  
+- **""rất""** (ở *""bay ___ất xa""*),  
+- và có thể là **""dà""** hoặc **""già""** (ở *""mật ong ___à hạn""*).  
+
+Tuy nhiên, từ **nổi bật nhất** và **phổ biến** trong bài là **""riêng""** (điền **r**) và **""rất""** (điền **r**), vì đây là những từ thường gặp trong bài tập phân biệt **r/d/gi**. Cụ thể:  
+- **""Sầu riêng""** (không viết ""sầu diêng"" hay ""sầu giêng"").  
+- **""Bay rất xa""** (không viết ""bay dất xa"" hay ""bay giất xa"").  
+
+Đáp án chính xác cho câu hỏi này là: **""riêng""** và **""rất""** (cần điền chữ **r**).","Dựa trên thông tin từ cả hai nguồn bạn cung cấp:
+
+- **Từ Knowledge Graph**: Thông tin về bài tập 3a và đoạn văn miêu tả sầu riêng không được cung cấp trong dữ liệu của bạn. Để trả lời câu hỏi này chính xác, cần thêm thông tin về bài tập cụ thể và đoạn văn miêu tả sầu riêng.
+
+- **Từ Document Images**: Trong bài tập 3a, từ cần điền 'r' vào chỗ trống là 'rẻ'.
+
+Vì vậy, dựa trên thông tin từ hình ảnh tài liệu, câu trả lời cho câu hỏi của bạn là: Trong bài tập 3a, từ cần điền 'r' vào chỗ trống là 'rẻ'. Tuy nhiên, để đảm bảo tính chính xác, bạn nên cung cấp thêm thông tin về bài tập cụ thể và đoạn văn miêu tả sầu riêng để có thể đưa ra một đáp án hoàn chỉnh hơn.",Sầu rieng,0,0.4044943820224719,0.45,0,0.01639344262295082,0.008333333333333333
+34,"Bài tập 2 yêu cầu chọn từ nào để điền vào chỗ trống: 'dút/rút' đi với từ nào trong các lựa chọn 'biển', 'dòng', 'chơi', 'thong', 'rêu', 'bút', 'khoát', 'day', '(khóc) rấm', 'điểm'?","Trong bài tập 2, từ cần điền **""rút""** kết hợp với **""khoát""** (tạo thành cụm **""rút khoát""** – nghĩa là *dứt khoát, quyết đoán*). 
+
+Cụ thể:
+- **""rút khoát""** là cụm từ đúng theo quy tắc chính tả tiếng Việt, trong khi **""dút khoát""** không tồn tại.  
+- Các lựa chọn khác như ""bút"", ""day"", ""(khóc) rấm"", ""điểm"" không ghép được với ""dút/rút"" để tạo thành từ ngữ có nghĩa.  
+
+→ Đáp án: **rút** (kết hợp với **khoát**).","Dựa trên câu hỏi của bạn, chúng ta cần tìm từ phù hợp để điền vào chỗ trống trong câu ""dứt/rút"". Trong số các lựa chọn được đưa ra, từ ""rút"" có thể phù hợp nhất với từ ""biển"" vì nó có thể liên quan đến việc rút nước từ biển. 
+
+Tuy nhiên, nếu bạn muốn sử dụng từ ""dứt"", thì không có từ nào trong danh sách cho phép bạn sử dụng nó. Vì vậy, dựa trên thông tin từ knowledge graph, tôi không thể đưa ra câu trả lời chính xác cho câu hỏi này.",Bài tập 2 yêu cầu chọn từ 'rút' để điền vào chỗ trống 'dứt/rút'.,0,0.2774566473988439,0.32,0,0.2222222222222222,0.13333333333333333
+35,"Theo đoạn văn miêu tả sầu riêng, hương vị của sầu riêng được so sánh với những loại trái cây và thực phẩm nào?","Theo đoạn văn miêu tả sầu riêng, hương vị của sầu riêng được so sánh với:  
+- **Mít chín** (mùi thơm),  
+- **Bưởi** (hương thơm),  
+- **Trứng gà** (vị béo),  
+- **Mật ong** (vị ngọt).  
+
+Cụ thể: *""Sầu riêng thơm mùi thơm của mít chín quyện với hương bưởi, béo cái béo của trứng gà, ngọt cái vị của mật ong đắng hạn.""*","Theo đoạn văn miêu tả sầu riêng từ nguồn tài liệu hình ảnh, hương vị của sầu riêng được so sánh với hương vị của các loại trái cây và thực phẩm sau:
+
+- Hương vị của sầu riêng được so sánh với hương vị của mít chín.
+- Hương vị của sầu riêng cũng được so sánh với hương vị của bưởi.
+- Ngoài ra, hương vị của sầu riêng còn được mô tả như là ""bèo cái béo của trứng gà"", gợi ý rằng hương vị của nó có thể giống như sự béo ngậy của lòng đỏ trứng gà.
+- Cuối cùng, hương vị của sầu riêng được ví von như ""ngọt cái vị của mật ong"", cho thấy hương vị ngọt ngào và đặc trưng của loại trái cây này.
+
+Tuy nhiên, thông tin về sầu riêng không có trong dữ liệu của Knowledge Graph. Dữ liệu chỉ chứa thông tin về ""cơm"" và một tác phẩm thơ mang tên ""Mặt trời xanh của tôi"". Vì vậy, tôi không thể cung cấp thêm thông tin chi tiết về sầu riêng dựa trên dữ liệu hiện có. Nếu bạn có thêm thông tin hoặc câu hỏi khác về sầu riêng, tôi sẽ rất vui lòng hỗ trợ bạn.","Hương vị của sầu riêng được so sánh với mùi thơm đặc biệt, mùi thơm đậm, bay ất xa, lâu tan trong không khí, mùi thơm của mít chín quyện với hương bưởi, béo cai béo của trứng gà, ngọt cái vị của mật ong.",0,0.3233082706766917,0.7288135593220338,0,0.6153846153846154,0.5423728813559322
+36,"Trong đoạn văn ""Rừng xuân"", tác giả NGÔ QUÂN MIỆN đã sử dụng những hình ảnh so sánh nào để miêu tả vẻ đẹp của rừng xuân, và chúng được so sánh với những gì?","Trong đoạn văn **""Rừng xuân""** của tác giả **NGÔ QUÂN MIỆN**, có **4 hình ảnh so sánh** được sử dụng để miêu tả vẻ đẹp của rừng xuân, cụ thể như sau:
+
+---
+
+### **1. Hình ảnh so sánh thứ nhất**  
+- **Sự vật 1**: *Vệt sương mỏng*  
+- **Được so sánh với**: *Chiếc khăn voan*  
+- **Câu văn**: *""Trời xuân chỉ hơi lạnh, vừa đủ để giữ một vệt sương mỏng như chiếc khăn voan vắt trên sườn đồi.""*  
+
+→ Tác giả so sánh **vệt sương mỏng** (đặc điểm: nhẹ nhàng, trong suốt) với **chiếc khăn voan** (vật mềm mại, mỏng manh), tạo cảm giác dịu dàng, tinh tế cho khung cảnh xuân.
+
+---
+
+### **2. Hình ảnh so sánh thứ hai**  
+- **Sự vật 1**: *Rừng xuân*  
+- **Được so sánh với**: *Một ngày hội của màu xanh*  
+- **Câu văn**: *""Rừng hôm nay như một ngày hội của màu xanh với nhiều sắc độ khác nhau.""*  
+
+→ Rừng xuân được ví như **ngày hội**, nhấn mạnh sự đa dạng, rực rỡ và sinh động của các sắc xanh (xanh non, xanh thẳm...).
+
+---
+
+### **3. Hình ảnh so sánh thứ ba**  
+- **Sự vật 1**: *Những đốm lá già đỏ*  
+- **Được so sánh với**: *Hồng ngọc*  
+- **Câu văn**: *""Những giữa đám lá xanh vẫn rớt lại những đốm lá già đỏ như hồng ngọc.""*  
+
+→ **Lá già đỏ** (màu sắc nổi bật giữa nền xanh) được so sánh với **hồng ngọc** (viên ngọc quý, ánh đỏ rực), làm nổi bật vẻ đẹp lấp lánh, quý phái của rừng xuân.
+
+---
+
+### **4. Hình ảnh so sánh thứ tư**  
+- **Sự vật 1**: *Chùm hoa chổi chang*  
+- **Được so sánh với**: *Ngọn lửa*  
+- **Câu văn**: *""Ở phía xa, những chùm hoa chổi chang như những ngọn lửa thắp sáng một vùng.""*  
+
+→ **Hoa chổi chang** (màu sắc rực rỡ) được ví như **ngọn lửa**, gợi cảm giác ấm áp, tràn đầy sức sống, làm bừng sáng cả khu rừng.
+
+---
+
+### **Tóm lại**:  
+Tác giả sử dụng 4 hình ảnh so sánh để khắc họa vẻ đẹp **tinh tế, đa dạng và rực rỡ** của rừng xuân, qua đó thể hiện tình yêu thiên nhiên và sự quan sát tinh tường trước vẻ đẹp của đất trời mùa xuân.","Trong đoạn văn ""Rừng xuân"", tác giả NGÔ QUÂN MIỆN đã sử dụng những hình ảnh so sánh để miêu tả vẻ đẹp của rừng xuân như sau:
+
+1. Một vệt sương mỏng như chiếc khăn voan vắt trên suôn đời.
+2. Những đốm lá già đỏ như hồng ngọc.
+3. Những chùm hoa chổi chang như những ngọn lửa thắp sáng một vùng.
+
+Các hình ảnh so sánh này được sử dụng để tạo ra sự tương phản giữa các đặc điểm của rừng xuân và những thứ khác. Ví dụ, sương mỏng được so sánh với khăn voan để tạo nên hình ảnh của một ngày hội của màu xanh với nhiều sắc độ khác nhau. Đốm lá già đỏ được so sánh với hồng ngọc để nhấn mạnh sự tươi mới và sức sống của rừng xuân. Cuối cùng, hoa chổi chang được so sánh với ngọn lửa để tạo nên hình ảnh của sự ấm áp và sự sống động của rừng xuân vào mùa xuân.","Trong đoạn văn ""Rừng xuân"", tác giả NGÔ QUÂN MIỆN đã sử dụng những hình ảnh so sánh như:
+- Một vệt sương mỏng như chiếc khăn voan.
+- Những đốm lá già đỏ như hồng ngọc.
+- Những chùm hoa chói chang như những ngọn lửa thắp sáng một vùng.",0,0.5595463137996219,0.41225626740947074,0,0.22604422604422608,0.12813370473537605
+37,"Bài tập 3 trong ""Tiết 4"" yêu cầu học sinh làm gì với các hình ảnh so sánh trong đoạn văn ""Rừng xuân""?","Bài tập 3 trong ""Tiết 4"" yêu cầu học sinh **xếp các hình ảnh so sánh có trong đoạn văn ""Rừng xuân"" vào bảng** với các cột sau:  
+- **Sự vật 1**: Đối tượng được so sánh (sự vật gốc).  
+- **Đặc điểm**: Tính chất/nét nổi bật của sự vật 1.  
+- **Từ so sánh**: Từ nối (ví dụ: *như*, *giống*, *tựa*...).  
+- **Sự vật 2**: Đối tượng dùng để so sánh (sự vật được ví).  
+
+Cụ thể, học sinh cần:  
+1. **Tìm các câu văn chứa hình ảnh so sánh** trong đoạn ""Rừng xuân"".  
+2. **Phân tích từng hình ảnh so sánh** và điền thông tin vào bảng theo mẫu.  
+
+Ví dụ từ đoạn văn:  
+- *""một vệt sương mỏng **như** chiếc khăn voan""* →  
+  - Sự vật 1: *một vệt sương*  
+  - Đặc điểm: *mỏng*  
+  - Từ so sánh: *như*  
+  - Sự vật 2: *chiếc khăn voan*  
+
+- *""Rừng hôm nay **như** một ngày hội của màu xanh""* →  
+  - Sự vật 1: *Rừng*  
+  - Đặc điểm: *một ngày hội của màu xanh*  
+  - Từ so sánh: *như*  
+  - Sự vật 2: *một ngày hội của màu xanh*  
+
+Mục đích của bài tập là giúp học sinh **nhận diện cấu trúc so sánh**, phân tích yếu tố tạo nên hình ảnh sinh động trong văn bản.","Dựa trên thông tin từ cả nguồn knowledge graph và document images, bài tập 3 trong ""Tiết 4"" yêu cầu học sinh thực hiện các bước sau:
+
+1. **Xác định đặc điểm của mỗi sự vật**: Học sinh cần tìm hiểu và ghi chú lại những đặc điểm mà tác giả sử dụng để mô tả từng sự vật trong đoạn văn ""Rừng xuân"".
+
+2. **Tìm kiếm từ so sánh**: Sau khi đã xác định được đặc điểm của mỗi sự vật, họ cần tìm kiếm và ghi chú lại từ so sánh được sử dụng để mô tả sự vật đó. Ví dụ, nếu tác giả nói về ""một vệt sương"", học sinh sẽ tìm kiếm từ so sánh để mô tả điều này.
+
+3. **Xác định sự vật được so sánh với**: Cuối cùng, học sinh cần xác định sự vật nào được so sánh với sự vật đang được mô tả. Trong ví dụ ""một vệt sương"", học sinh sẽ tìm hiểu rằng ""một vệt sương"" được so sánh với ""một ngày hội của màu xanh"".
+
+Tóm lại, bài tập yêu cầu học sinh không chỉ nắm bắt được nội dung và ý nghĩa của đoạn văn ""Rừng xuân"", mà còn phải có khả năng phân tích và hiểu rõ cách tác giả sử dụng các hình ảnh so sánh để mô tả các sự vật trong đoạn văn.",Bài tập 3 yêu cầu học sinh xếp các hình ảnh so sánh vào bảng dưới đây.,0,0.5103448275862068,0.5467980295566502,0,0.13636363636363638,0.07389162561576355
+38,"Ngoài việc đánh giá kỹ năng đọc thành tiếng và học thuộc lòng, bài tập nào khác được yêu cầu trong ""Tiết 4""?","Ngoài việc đánh giá kỹ năng đọc thành tiếng và học thuộc lòng (bài tập 1), **Tiết 4** còn yêu cầu học sinh thực hiện hai bài tập sau:  
+1. **Nghe – viết** (bài tập 2): Viết lại đoạn văn ""Rừng xuân"" sau khi nghe giáo viên đọc.  
+2. **Xếp các hình ảnh so sánh vào bảng** (bài tập 3): Phân tích và điền thông tin về sự vật được so sánh, đặc điểm, từ so sánh và sự vật dùng để so sánh trong đoạn văn ""Rừng xuân"" vào bảng đã cho.","Trong ""Tiết 4"", ngoài việc đánh giá kỹ năng đọc thành tiếng và học thuộc lòng, bài tập yêu cầu học sinh cũng phải thực hiện một số hoạt động khác. Cụ thể, theo thông tin từ Document Images, bài tập này còn yêu cầu học sinh xếp các hình ảnh so sánh trong đoạn văn ""Rừng xuân"" vào bảng dưới đây. Điều này cho thấy ngoài việc đánh giá kỹ năng đọc và học thuộc lòng, bài tập ""Tiết 4"" cũng tập trung vào việc phân tích và tổ chức thông tin từ văn bản, qua đó giúp học sinh hiểu rõ hơn về nội dung và cấu trúc của đoạn văn.",Bài tập còn lại là nghe - viết.,0,0.5365853658536586,0.5978260869565217,0,0.12121212121212122,0.06521739130434782
+39,"Theo hướng dẫn trong tài liệu, giáo viên nên làm gì để giúp học sinh trả lời được câu hỏi về thành phần khí hít vào và thở ra ở người trong hoạt động khởi động?","Theo hướng dẫn trong tài liệu, để giúp học sinh trả lời câu hỏi về **thành phần khí hít vào và thở ra ở người** trong **Hoạt động 1. KHỞI ĐỘNG**, giáo viên cần thực hiện các bước sau:  
+
+1. **Cung cấp thông tin và đặt câu hỏi trực tiếp**:  
+   - Giáo viên đưa ra câu hỏi liên quan đến thành phần khí hít vào/thở ra ở cơ thể người ngay trong phần khởi động, **không yêu cầu học sinh quan sát hình ảnh** trước. Thay vào đó, khuyến khích học sinh **tự dựa vào kiến thức đã học** (hoặc hiểu biết sẵn có) để nêu ý kiến.  
+
+2. **Hướng dẫn học sinh mô tả quá trình**:  
+   - Yêu cầu học sinh **mô tả đường đi của khí** từ lúc hít vào đến khi thở ra, kết hợp với việc giải thích thành phần khí (ví dụ: O₂, CO₂) trong mỗi giai đoạn.  
+
+3. **Hỗ trợ khi học sinh chưa trả lời được**:  
+   - Nếu học sinh chưa trả lời được ngay, giáo viên **dẫn dắt học sinh xem lại bài học** (phần lý thuyết đã học trước đó) và quay lại trả lời sau khi ôn tập.  
+
+→ Mục tiêu: Kích thích tư duy chủ động, phát huy kiến thức sẵn có của học sinh, đồng thời tạo tiền đề cho hoạt động tìm hiểu sâu hơn ở phần tiếp theo (Hoạt động 2).","Dựa trên hai nguồn thông tin đã cung cấp, dưới đây là cách giáo viên có thể giúp học sinh trả lời được câu hỏi về thành phần khí hít vào và thở ra ở người trong hoạt động khởi động:
+
+1. **Giới thiệu khái niệm**: Giáo viên nên giới thiệu khái niệm về quá trình hô hấp cơ bản, bao gồm việc hít vào và thở ra. Điều này có thể được làm thông qua việc sử dụng hình ảnh hoặc video mô phỏng quá trình hô hấp. Đây là thông tin quan trọng từ knowledge graph.
+
+2. **Tạo môi trường học tập tương tác**: Sử dụng các trò chơi hoặc hoạt động tương tác để giúp học sinh hiểu rõ hơn về quá trình hô hấp. Ví dụ, giáo viên có thể yêu cầu học sinh mô phỏng hành động hít vào và thở ra, hoặc sử dụng các công cụ như mô hình mô phỏng hô hấp để minh họa cho học sinh. Đây là thông tin bổ sung từ document images.
+
+3. **Hướng dẫn học sinh thực hành**: Dành thời gian để học sinh thực hành các động tác hít vào và thở ra một cách chính xác. Giáo viên có thể hướng dẫn từng bước và kiểm tra kỹ năng của học sinh để đảm bảo họ đang thực hiện đúng. Đây cũng là thông tin quan trọng từ knowledge graph.
+
+Tóm lại, giáo viên cần thực hiện các bước trên để giúp học sinh hiểu rõ về quá trình hô hấp cơ bản và thực hành các động tác hít vào và thở ra một cách chính xác.",Giáo viên nên đưa ra thông tin và câu hỏi trong phần khởi động để học sinh trả lời.,0,0.4426877470355731,0.4827586206896552,0,0.14342629482071714,0.07758620689655173
+40,"Trong hoạt động 'TÌM HIỂU TRAO ĐỔI KHÍ Ở SINH VẬT', giáo viên nên sử dụng phương tiện trực quan nào để hỗ trợ học sinh hiểu khái niệm trao đổi khí và phân biệt quá trình này ở động vật và thực vật?","Theo hướng dẫn trong tài liệu, trong hoạt động **""TÌM HIỂU TRAO ĐỔI KHÍ Ở SINH VẬT""**, giáo viên nên **sử dụng tranh ảnh hoặc video** về quá trình trao đổi khí ở động vật và thực vật để giúp học sinh:  
+- Nêu được khái niệm trao đổi khí.  
+- Phân biệt quá trình trao đổi khí giữa động vật và thực vật.  
+
+Ngoài ra, giáo viên có thể kết hợp tổ chức cho học sinh tìm hiểu thông tin trong sách giáo khoa (SGK) và liên hệ kiến thức đã học để củng cố hiểu biết về các khí hít vào/thở ra ở từng nhóm sinh vật.","Trong hoạt động 'TÌM HIỂU TRAO ĐỔI KHÍ Ở SINH VẬT', giáo viên nên sử dụng một số phương tiện trực quan để hỗ trợ học sinh hiểu khái niệm trao đổi khí và phân biệt quá trình này ở động vật và thực vật. Dựa trên hai nguồn thông tin đã cung cấp:
+
+1. **Biểu đồ hoặc sơ đồ tư duy**: Biểu đồ hoặc sơ đồ tư duy giúp học sinh nắm bắt được các bước chính của quá trình trao đổi khí ở động vật và thực vật. Giáo viên có thể tạo ra một sơ đồ tư duy với các phần tử như: hô hấp ở động vật, phô mai ở thực vật, và các bước tương ứng.
+
+2. **Video giảng dạy**: Video giảng dạy có thể cung cấp cho học sinh hình ảnh và âm thanh sống động về quá trình trao đổi khí ở động vật và thực vật. Giáo viên có thể tìm kiếm các video chất lượng cao trên YouTube hoặc các nền tảng giáo dục trực tuyến khác.
+
+3. **Bài giảng trực quan**: Sử dụng các bài giảng trực quan như slide PowerPoint hoặc Google Slides để trình bày thông tin một cách rõ ràng và sinh động.
+
+Như vậy, giáo viên có thể kết hợp sử dụng biểu đồ hoặc sơ đồ tư duy, video giảng dạy, và bài giảng trực quan để hỗ trợ học sinh hiểu rõ hơn về khái niệm trao đổi khí và phân biệt quá trình này ở động vật và thực vật.",Giáo viên nên sử dụng tranh ảnh hoặc video về quá trình trao đổi khí ở động vật và thực vật để hỗ trợ học sinh hiểu khái niệm trao đổi khí và phân biệt quá trình này ở hai loại sinh vật này.,0,0.43287671232876707,0.7314814814814815,0,0.5000000000000001,0.35185185185185186
+41,"Theo tài liệu, sự khác biệt giữa 'hô hấp' và 'hô hấp tế bào' ở động vật là gì, và khí O₂ đóng vai trò gì trong quá trình hô hấp tế bào?","Theo tài liệu, **sự khác biệt** giữa ""hô hấp"" và ""hô hấp tế bào"" ở động vật được giải thích như sau:  
+- **Hô hấp** là quá trình tổng thể bao gồm cả **trao đổi khí** (biểu hiện bên ngoài, như hít vào/thở ra) và **hô hấp tế bào** (biểu hiện bên trong).  
+- **Hô hấp tế bào** chỉ là một phần của hô hấp, diễn ra **bên trong tế bào**, nơi các chất dinh dưỡng được oxy hóa để giải phóng năng lượng.  
+
+**Vai trò của khí O₂ trong hô hấp tế bào**:  
+Khí O₂ được cơ thể lấy vào qua quá trình trao đổi khí, sau đó vận chuyển đến tế bào để tham gia vào **quá trình oxy hóa các chất** trong hô hấp tế bào. Quá trình này giải phóng năng lượng cần thiết cho các hoạt động sống của cơ thể.  
+
+→ Tóm lại: Hô hấp là khái niệm rộng (gồm trao đổi khí và hô hấp tế bào), còn hô hấp tế bào là phản ứng hóa học xảy ra trong tế bào với sự tham gia của O₂ để tạo năng lượng.","Theo tài liệu, 'hô hấp' ở động vật là quá trình lấy vào và thải ra các khí như CO₂ và O₂, trong khi 'hô hấp tế bào' là quá trình thực hiện quá trình oxy hóa các chất trong hô hấp tế bào, giải phóng năng lượng cho cơ thể hoạt động. Trong quá trình hô hấp tế bào, khí O₂ đóng vai trò là chất oxy hóa, giúp cho quá trình này diễn ra hiệu quả hơn.
+
+Vì vậy, sự khác biệt chính giữa 'hô hấp' và 'hô hấp tế bào' ở động vật là 'hô hấp' là quá trình tổng thể mà động vật thực hiện để lấy vào và thải ra các khí, trong khi 'hô hấp tế bào' chỉ là một phần của quá trình này, tập trung vào việc sử dụng O₂ để oxy hóa các chất trong tế bào, từ đó giải phóng năng lượng cần thiết cho hoạt động của cơ thể.","Theo tài liệu, 'hô hấp' ở động vật là quá trình lấy O₂ từ môi trường và thải CO₂ ra môi trường, trong khi 'hô hấp tế bào' là quá trình sử dụng O₂ để thực hiện quá trình oxy hóa các chất trong hô hấp tế bào, giải phóng năng lượng cho cơ thể hoạt động. Khí O₂ đóng vai trò là chất oxy hóa trong quá trình hô hấp tế bào.",0,0.6628242074927954,0.6149732620320856,0,0.4692307692307693,0.32620320855614976
+42,"Mục đích chính của bài học ""Ghép hình nhà"" là gì?","Mục đích chính của bài học **""Ghép hình nhà""** là giúp học sinh **quan sát và thảo luận về các khu nhà (nhà phố, chung cư) trong đời sống thực tế và trong tranh vẽ**, qua đó:  
+- **Phát triển kỹ năng quan sát**: So sánh đặc điểm kiến trúc, không gian sống giữa nhà ở thực tế (ví dụ: phố cổ Hà Nội, chung cư hiện đại) và cách thể hiện sáng tạo trong tranh (qua tác phẩm của trẻ em).  
+- **Kết nối thực tế với nghệ thuật**: Hiểu được sự khác biệt và tương đồng giữa môi trường sống xung quanh và cách diễn đạt nghệ thuật, từ đó khơi gợi óc tưởng tượng, cảm nhận thẩm mỹ.  
+- **Rèn luyện kỹ năng giao tiếp**: Thảo luận nhóm để chia sẻ quan điểm về vai trò của nhà ở trong cộng đồng và cách thể hiện chúng qua hình ảnh.  
+
+Bài học kết hợp giữa tiếp cận thực tiễn (ảnh chụp) và sáng tạo (tranh vẽ), phù hợp với phương pháp giáo dục tích hợp, giúp học sinh vừa học kiến thức xã hội vừa phát triển tư duy nghệ thuật.","Mục đích chính của bài học ""Ghép hình nhà"" được đề cập trong hai nguồn thông tin khác nhau:
+
+1. **Từ Knowledge Graph**: Không có thông tin cụ thể về mục đích chính của bài học ""Ghép hình nhà"". Điều này có nghĩa là chúng ta cần thêm thông tin hoặc cập nhật về nội dung bài học để có thể trả lời chính xác hơn.
+
+2. **Từ Document Images**: Mục đích chính của bài học ""Ghép hình nhà"" là giúp học sinh quan sát và thảo luận về các hình ảnh đại diện cho các loại nhà phổ biến trong cuộc sống và trong tranh. Bài học này cũng yêu cầu học sinh sắp xếp các hình ảnh so sánh trong đoạn văn ""Rừng xuân"" vào bảng dưới đây:
+
+   - Một vệt sương mỏng như chiếc khăn voan vắt trên suôn đời.
+   - Những đốm lá già đỏ như hồng ngọc.
+   - Những chùm hoa chổi chang như những ngọn lửa thắp sáng một vùng.
+
+Bài học này nhằm mục đích giúp học sinh phát triển kỹ năng đọc thành tiếng, học thuộc lòng và hiểu rõ hơn về các đặc điểm của các loại nhà thông qua việc so sánh và phân tích các hình ảnh.
+
+Tổng kết lại, mục đích chính của bài học ""Ghép hình nhà"" bao gồm việc giúp học sinh phát triển kỹ năng đọc thành tiếng, học thuộc lòng và hiểu rõ hơn về các đặc điểm của các loại nhà thông qua việc so sánh và phân tích các hình ảnh đại diện cho các loại nhà phổ biến trong cuộc sống và trong tranh.","Mục đích chính của bài học ""Ghép hình nhà"" là quan sát, thảo luận về khu nhà trong cuộc sống và trong tranh.",0,0.3470715835140998,0.418848167539267,0,0.205607476635514,0.11518324607329843
+43,Ảnh chụp Phố cổ Hà Nội trong tài liệu này được chụp bởi ai?,"Ảnh chụp Phố cổ Hà Nội trong tài liệu này được ghi chú là **""ảnh của Nguyễn Xuân Tiến""** (xem chú thích dưới hình ảnh đầu tiên bên trái). Do đó, người chụp là **Nguyễn Xuân Tiến**.",The image of Old Quarter Hanoi in this document was taken by Nguyễn Xuân Tiến.,Nguyễn Xuân Tiến,0,0.11538461538461539,0.08108108108108109,0,0.15,0.08108108108108109
+44,"Tác giả của bức tranh ""Thế giới trong bao nhông, sáp màu"" là ai?","Tác giả của bức tranh ""Thế giới trong bao nhông, sáp màu"" là **Thái Thị Bảo Anh** (thông tin được ghi chú dưới bức tranh ở góc phải phía dưới của trang).","Theo thông tin từ hình ảnh tài liệu, tác giả của bức tranh ""Thế giới trong bao nhông, sáp màu"" là Thái Thị Bảo An. Tuy nhiên, thông tin này chỉ dựa trên hình ảnh tài liệu và chưa được xác nhận từ dữ liệu知识图谱. Để có thông tin chính xác hơn, bạn nên tìm kiếm thêm nguồn gốc của bức tranh để xác nhận tác giả.",Thái Thị Bảo Anh,0,0.4444444444444444,0.6875,0,0.2222222222222222,0.125
+45,"Trong bối cảnh của bài học này, mục tiêu cụ thể nào được đặt ra liên quan đến việc tính toán và hiểu biết về các đặc trưng đo mức độ phân tán của mẫu số liệu?","Trong bối cảnh bài học **""BÀI 4. CÁC SỐ ĐẶC TRƯNG ĐO MỨC ĐỘ PHÂN TÁN CỦA MẪU SỐ LIỆU""**, các mục tiêu cụ thể liên quan đến việc **tính toán và hiểu biết về các đặc trưng đo mức độ phân tán** của mẫu số liệu không ghép nhóm được nêu rõ tại phần **""I. MỤC TIÊU""** như sau:
+
+---
+
+### **1. Yêu cầu cần đạt**  
+- **Tính toán thành thạo các số đặc trưng đo mức độ phân tán**:  
+  - Xác định được **khoảng biến thiên**, **khoảng tứ phân vị**, **phương sai**, và **độ lệch chuẩn** của mẫu số liệu không ghép nhóm.  
+- **Hiểu và giải thích ý nghĩa thực tiễn**:  
+  - Trình bày được **ý nghĩa và vai trò** của các số đặc trưng này trong việc đánh giá sự phân tán của dữ liệu trong thực tế (ví dụ: đo lường độ biến động của dữ liệu, so sánh tính đồng đều giữa các tập mẫu).  
+- **Vận dụng vào tình huống đơn giản**:  
+  - Áp dụng kết quả tính toán để **rút ra kết luận** phù hợp trong các trường hợp thực tế cụ thể (ví dụ: phân tích độ ổn định của một quá trình sản xuất, đánh giá rủi ro trong kinh tế).  
+
+---
+
+### **2. Năng lực cần chú trọng**  
+- Phát triển khả năng **tư duy toán học** và **mô hình hóa** thông qua việc áp dụng các công thức vào bài toán thực tế.  
+- Rèn luyện kỹ năng **giao tiếp toán học** khi diễn giải ý nghĩa của các số đặc trưng cho người khác.  
+
+---
+
+### **3. Tích hợp liên môn**  
+- Liên hệ kiến thức với các môn học khác (như Vật lý, Kinh tế) để thấy được ứng dụng đa dạng của các số đặc trưng trong việc phân tích dữ liệu thực nghiệm.  
+
+---
+
+Những mục tiêu này nhấn mạnh việc **kết hợp giữa lý thuyết và thực hành**, giúp người học không chỉ biết cách tính toán mà còn hiểu sâu sắc về **vai trò của các số đặc trưng** trong việc đánh giá và ra quyết định dựa trên dữ liệu.","Trong bối cảnh của bài học này, mục tiêu cụ thể liên quan đến việc tính toán và hiểu biết về các đặc trưng đo mức độ phân tán của mẫu số liệu có thể bao gồm:
+
+1. **Tính toán Khoảng biến thiên**: Đây là một trong những cách đo lường mức độ phân tán của một tập hợp dữ liệu. Mục tiêu cụ thể có thể là tính toán khoảng biến thiên cho một hoặc nhiều tập dữ liệu khác nhau để hiểu rõ hơn về mức độ biến thiên của chúng.
+
+2. **Hãy hiểu về ý nghĩa của Khoảng biến thiên**: Mục tiêu khác có thể là hiểu rõ ý nghĩa của khoảng biến thiên trong việc đo lường mức độ phân tán của một tập dữ liệu. Điều này bao gồm việc phân tích và so sánh các tập dữ liệu khác nhau để thấy sự khác biệt về mức độ phân tán.
+
+Cả hai mục tiêu này đều nhằm giúp học viên nắm vững khái niệm và kỹ năng cần thiết để tính toán và hiểu biết về các đặc trưng đo mức độ phân tán của mẫu số liệu.
+
+Như vậy, thông qua việc tích hợp thông tin từ cả knowledge graph và document images, chúng ta đã xác định được mục tiêu cụ thể của bài học liên quan đến việc tính toán và hiểu biết về các đặc trưng đo mức độ phân tán của mẫu số liệu.","Mục tiêu cụ thể là tính được số đặc trưng đo mức độ phân tán của mẫu số liệu không ghép nhóm: Khoảng biến thiên, Khoảng tứ phân vị, Phương sai, Độ lệch chuẩn.",0,0.5306122448979592,0.45481049562682213,0,0.17506631299734746,0.09620991253644315
+46,"Khoảng tứ phân vị được định nghĩa như thế nào trong tài liệu này, và nó có đặc điểm gì khác biệt so với các đặc trưng đo độ phân tán khác?","Theo tài liệu, **khoảng tứ phân vị** được định nghĩa là:  
+> *""Đặc trưng cho độ phân tán của một nửa các số liệu, có giá trị thuộc đoạn từ $ Q_1 $ đến $ Q_3 $ trong mẫu. Khoảng tứ phân vị không bị ảnh hưởng bởi các giá trị rất lớn hoặc rất bé trong mẫu.""*  
+
+### Đặc điểm khác biệt so với các đặc trưng đo độ phân tán khác:
+1. **Không nhạy cảm với giá trị ngoại lai**:  
+   - Khác với *khoảng biến thiên* (phụ thuộc vào giá trị lớn nhất và nhỏ nhất) hay *phương sai/độ lệch chuẩn* (tính toán dựa trên tất cả dữ liệu, bao gồm cả giá trị bất thường), khoảng tứ phân vị **chỉ tập trung vào 50% dữ liệu ở giữa** (từ $ Q_1 $ đến $ Q_3 $). Điều này giúp nó **loại bỏ ảnh hưởng của các giá trị cực đoan** (rất lớn hoặc rất nhỏ), làm cho kết quả đo lường độ phân tán trở nên ổn định hơn trong trường hợp mẫu có nhiễu hoặc ngoại lai.
+
+2. **Phản ánh độ phân tán thực tế của phần ""trung tâm"" dữ liệu**:  
+   - Trong khi các đặc trưng như phương sai hay độ lệch chuẩn phản ánh sự biến động của toàn bộ mẫu, khoảng tứ phân vị tập trung vào khu vực chứa đa số quan sát, giúp đánh giá độ phân tán **thực tế và đáng tin cậy hơn** khi dữ liệu không đồng đều hoặc có xu hướng lệch.
+
+### Ví dụ minh họa từ tài liệu:
+- Nếu mẫu có giá trị ngoại lai (ví dụ: một số liệu rất lớn), khoảng biến thiên sẽ bị kéo giãn, phương sai/độ lệch chuẩn cũng tăng mạnh. Tuy nhiên, khoảng tứ phân vị **vẫn giữ nguyên** vì nó chỉ xem xét phân vị thứ nhất ($ Q_1 $) và phân vị thứ ba ($ Q_3 $), không phụ thuộc vào các giá trị biên.  
+
+Đây là lý do khoảng tứ phân vị thường được ưu tiên sử dụng khi phân tích dữ liệu có nhiễu hoặc phân phối không đối xứng.","Trong tài liệu này, khoảng tứ phân vị được định nghĩa là khoảng từ Q1 đến Q3 trong mẫu số liệu. Đặc điểm khác biệt của khoảng tứ phân vị so với các đặc trưng đo độ phân tán khác như khoảng biến thiên và phương sai là nó chỉ bao gồm một nửa các số liệu trong mẫu, tức là từ Q1 đến Q3. Điều này giúp đánh giá độ phân tán của một nửa các số liệu thay vì toàn bộ mẫu số liệu.
+
+Tuy nhiên, thông tin từ Knowledge Graph cho thấy không có thông tin cụ thể về ""khoảng tứ phân vị"" trong dữ liệu đã cung cấp. Dữ liệu hiện tại chỉ đề cập đến ""khoảng biến thiên"" và ""Hình 4.6"". Nếu bạn có thêm thông tin hoặc nếu có bất kỳ hình ảnh nào liên quan đến ""khoảng tứ phân vị"" hoặc ""khoảng biến thiên"", vui lòng chia sẻ để tôi có thể giúp bạn tốt hơn.",Khoảng tứ phân vị được định nghĩa là khoảng từ Q1 đến Q3 trong mẫu. Đặc điểm khác biệt của khoảng tứ phân vị so với các đặc trưng đo độ phân tán khác là nó không bị ảnh hưởng bởi các giá trị rất lớn hoặc rất bé trong mẫu.,0,0.4470588235294118,0.32947976878612717,0,0.24685138539042822,0.1416184971098266
+47,Khi nào thì việc sử dụng số trung vị và khoảng tứ phân vị được ưu tiên hơn so với số trung bình và phạm vi trong việc đánh giá mức độ tập trung và phân tán của mẫu số liệu?,"Theo tài liệu, việc sử dụng **số trung vị** và **khoảng tứ phân vị** được ưu tiên hơn so với **số trung bình** và **phạm vi** trong các trường hợp sau:
+
+1. **Khi mẫu số liệu chứa giá trị ngoại lệ (outliers)**:  
+   - Số trung bình và phạm vi (khoảng biến thiên) dễ bị ảnh hưởng bởi các giá trị rất lớn hoặc rất nhỏ, dẫn đến kết quả không phản ánh đúng mức độ tập trung/phân tán của **đa số phần tử** trong mẫu.  
+   - Trong khi đó, số trung vị và khoảng tứ phân vị **không bị ảnh hưởng bởi giá trị ngoại lệ**, vì chúng chỉ tập trung vào phân tích nửa dữ liệu ở giữa (từ $Q_1$ đến $Q_3$), giúp đánh giá chính xác hơn xu hướng trung tâm và độ phân tán của phần lớn dữ liệu.
+
+2. **Khi phân phối dữ liệu bị lệch (skewed distribution)**:  
+   - Nếu dữ liệu không đối xứng (ví dụ: lệch phải hoặc lệch trái), số trung bình sẽ bị kéo lệch theo hướng của giá trị ngoại lệ, trong khi số trung vị vẫn giữ nguyên vai trò đại diện cho ""điểm giữa"" của mẫu.  
+   - Khoảng tứ phân vị cũng phù hợp hơn để đo lường độ phân tán trong trường hợp này, vì nó loại bỏ 25% giá trị đầu và cuối của mẫu.
+
+3. **Khi cần đánh giá ""mức độ tập trung thực tế"" của đa số dữ liệu**:  
+   - Tài liệu nhấn mạnh: *""Khi mẫu có giá trị ngoại lệ, số trung vị và khoảng tứ phân vị sẽ đại diện cho mức độ tập trung và mức độ phân tán của đa số các phần tử trong mẫu số liệu""*. Điều này cho thấy hai đặc trưng này phản ánh chính xác hơn bản chất của dữ liệu khi có sự hiện diện của các giá trị bất thường.
+
+**Ví dụ minh họa**:  
+Nếu một mẫu dữ liệu về thu nhập có vài cá nhân có thu nhập cực cao (ngoại lệ), số trung bình sẽ bị đẩy lên cao, trong khi số trung vị và khoảng tứ phân vị vẫn phản ánh đúng mức thu nhập phổ biến của phần lớn người trong mẫu.","Việc sử dụng số trung vị và khoảng tứ phân vị thay vì số trung bình và phạm vi thường được ưu tiên khi dữ liệu có tính chất không đều hoặc có các giá trị cực đoan (outliers) gây ảnh hưởng lớn đến tính chất của dữ liệu. Dưới đây là một số lý do:
+
+1. **Số Trung Vị và Khoảng Tứ Phân Vi**:
+   - **Số Trung Vị**: Đây là giá trị trung tâm của dữ liệu đã sắp xếp theo thứ tự tăng dần hoặc giảm dần. Nó không bị ảnh hưởng bởi các giá trị cực đoan trong dữ liệu.
+   - **Khoảng Tứ Phân Vi**: Đây là khoảng cách giữa hai giá trị trung vị của các phần tử trong dữ liệu. Nó cung cấp thông tin về sự phân bố của dữ liệu mà không bị ảnh hưởng bởi giá trị cực đoan.
+
+2. **Số Trung Bình và Phạm Vi**:
+   - **Số Trung Bình**: Đây là tổng của tất cả các giá trị chia cho số lượng giá trị. Nó có thể bị ảnh hưởng bởi các giá trị cực đoan.
+   - **Phạm Vi**: Đây là khoảng cách giữa giá trị lớn nhất và nhỏ nhất trong dữ liệu.
+
+Trong trường hợp dữ liệu có các giá trị cực đoan, số trung vị và khoảng tứ phân vị sẽ cung cấp thông tin chính xác hơn về tập trung và phân tán của dữ liệu so với số trung bình và phạm vi. Số trung vị không bị ảnh hưởng bởi giá trị cực đoan, giúp cho chúng ta hiểu rõ hơn về phân bố thực sự của dữ liệu.",Khi có các giá trị ngoại lệ làm cho số trung bình và phạm vi của mẫu thay đổi lớn.,0,0.55,0.4756756756756757,0,0.08717948717948719,0.04594594594594595
+48,"Theo hướng dẫn trong SGK, GV nên đặt những câu hỏi như thế nào để gợi ý cho HS về khái niệm và ảnh hưởng của ô nhiễm môi trường trong trồng trọt?","Theo hướng dẫn trong SGK, giáo viên (GV) cần đặt các câu hỏi **gợi mở** để giúp học sinh (HS) tự tìm hiểu khái niệm và ảnh hưởng của ô nhiễm môi trường trong trồng trọt. Cụ thể, GV nên đặt những câu hỏi sau (trích từ phần **c) Nội dung và cách thức tiến hành**):  
+
+1. **""Ô nhiễm môi trường trong trồng trọt là gì?""**  
+   → Giúp HS xác định khái niệm cơ bản về ô nhiễm môi trường trong lĩnh vực nông nghiệp.  
+
+2. **""Nó được biểu hiện như thế nào?""**  
+   → Hướng dẫn HS quan sát Hình 26.2 trong SGK và phân tích các dấu hiệu, hình thức ô nhiễm (ví dụ: đất bị thoái hóa, nước bị nhiễm hóa chất, không khí ô nhiễm...).  
+
+3. **""Nó có ảnh hưởng như thế nào đến sức khỏe con người, vật nuôi, cây trồng và hệ sinh thái?""**  
+   → Khuyến khích HS liên hệ thực tế, phân tích tác động đa chiều của ô nhiễm đến các yếu tố sinh học và xã hội.  
+
+Bên cạnh đó, GV cần kết hợp yêu cầu HS **đọc mục I, III trong SGK** và **quan sát Hình 26.2** để trả lời các câu hỏi này, đồng thời khuyến khích thảo luận nhóm hoặc liên hệ với thực tiễn địa phương (như sản xuất nông nghiệp tại gia đình, khu vực xung quanh) để làm sâu sắc thêm kiến thức.","Để giúp giáo viên (GV) đặt câu hỏi phù hợp để gợi ý cho học sinh (HS) về khái niệm và ảnh hưởng của ô nhiễm môi trường trong trồng trọt, chúng ta cần xem xét thông tin từ cả knowledge graph (KG) và các hình ảnh từ tài liệu (document chunks).
+
+Dựa trên thông tin từ KG, có một số hướng dẫn chung mà GV có thể áp dụng:
+
+1. **Câu hỏi mở rộng**: Câu hỏi mở rộng sẽ khuyến khích HS suy nghĩ sâu hơn và đưa ra ý kiến cá nhân. Ví dụ: ""Bạn đã biết gì về ô nhiễm môi trường trong nông nghiệp và tác động của nó đến môi trường sống?""
+
+2. **Câu hỏi liên quan đến thực tế**: Câu hỏi này liên quan đến các ví dụ cụ thể hoặc thực tế để HS có thể áp dụng vào cuộc sống hàng ngày. Ví dụ: ""Trong nông nghiệp, bạn đã thấy những hình thức nào của ô nhiễm môi trường?""
+
+3. **Câu hỏi về nguyên nhân và hậu quả**: Câu hỏi này giúp HS hiểu rõ hơn về nguyên nhân gây ra ô nhiễm môi trường và những hậu quả mà nó mang lại. Ví dụ: ""Tại sao nông nghiệp có thể gây ô nhiễm môi trường và những hậu quả đó là gì?""
+
+Bên cạnh đó, thông qua các hình ảnh từ tài liệu, GV có thể tìm thấy thêm các ví dụ cụ thể về cách HS tiếp cận vấn đề này. Ví dụ, một hình ảnh có thể cho thấy một số hình thức ô nhiễm môi trường trong nông nghiệp như sử dụng hóa chất, nước thải không được xử lý, và các hình ảnh khác có thể giúp HS hiểu rõ hơn về vấn đề này.
+
+Vì vậy, tổng hợp cả hai nguồn thông tin, GV có thể đặt câu hỏi như sau:
+
+- ""Bạn đã biết gì về ô nhiễm môi trường trong nông nghiệp và tác động của nó đến môi trường sống?""
+- ""Trong nông nghiệp, bạn đã thấy những hình thức nào của ô nhiễm môi trường?""
+- ""Tại sao nông nghiệp có thể gây ô nhiễm môi trường và những hậu quả đó là gì?""
+
+Những câu hỏi này không chỉ giúp HS hiểu rõ hơn về khái niệm và ảnh hưởng của ô nhiễm môi trường trong trồng trọt mà còn khuyến khích họ suy nghĩ sâu hơn và đưa ra ý kiến cá nhân.","GV nên đặt các câu hỏi gợi ý liên quan đến khái niệm và ảnh hưởng của ô nhiễm môi trường trong trồng trọt như: ""Ô nhiễm môi trường trong trồng trọt là gì? Nó được biểu hiện như thế nào? Nó có ảnh hưởng như thế nào đến sức khỏe con người, vật nuôi, cây trồng và hệ sinh thái?""",0,0.4396284829721362,0.6016949152542372,0,0.404040404040404,0.2542372881355932
+49,"GV có thể tổ chức hoạt động nào để giúp HS hiểu sâu hơn về tác hại của ô nhiễm môi trường trong trồng trọt đối với con người, cây trồng, vật nuôi và hệ sinh thái?","Theo hướng dẫn trong SGK, GV có thể tổ chức các hoạt động sau để giúp HS hiểu sâu hơn về tác hại của ô nhiễm môi trường trong trồng trọt:  
+
+1. **Thảo luận nhóm**  
+   - Tổ chức cho HS thảo luận để **giải thích cụ thể tác hại của ô nhiễm môi trường** đối với con người (ví dụ: ngộ độc hóa chất, bệnh tật), cây trồng (suy giảm năng suất, chất lượng), vật nuôi (nhiễm độc, chết hàng loạt) và hệ sinh thái (mất cân bằng sinh học, suy thoái đất).  
+   - Kết hợp với **hộp ""Khám phá"" trong SGK** để HS trả lời câu hỏi mở, từ đó khắc sâu kiến thức và mở rộng hiểu biết.  
+
+2. **Liên hệ thực tiễn**  
+   - Yêu cầu HS **kết nối với thực tế sản xuất tại gia đình hoặc địa phương**: Ví dụ, phỏng vấn người dân về hậu quả của việc lạm dụng phân bón, thuốc trừ sâu; quan sát mẫu đất/nước bị ô nhiễm ở khu vực nông thôn.  
+   - Đối với HS ở thành phố, GV có thể hướng dẫn HS thảo luận qua hình ảnh, video về ô nhiễm nông nghiệp để hình dung rõ hơn.  
+
+3. **Trình bày và phản biện**  
+   - Cho HS **thảo luận nhóm, trình bày trước lớp** về các tình huống giả định (ví dụ: ""Nếu sử dụng thuốc bảo vệ thực vật không đúng cách, điều gì xảy ra?""). Sau đó, các nhóm phản biện lẫn nhau để củng cố kiến thức.  
+
+Các hoạt động này giúp HS không chỉ nắm vững lý thuyết mà còn **vận dụng vào thực tiễn**, từ đó nhận thức sâu sắc về hậu quả của ô nhiễm môi trường trong trồng trọt.","Để giúp học sinh (HS) hiểu sâu hơn về tác hại của ô nhiễm môi trường trong trồng trọt đối với con người, cây trồng, vật nuôi và hệ sinh thái, GV có thể tổ chức một loạt các hoạt động giáo dục và thực tế. Dưới đây là một số gợi ý:
+
+1. **Tổng hợp thông tin từ Knowledge Graph**:
+   - **Hình 26.2** có thể là một hình minh họa hoặc biểu đồ liên quan đến ô nhiễm môi trường trong nông nghiệp. Thông qua việc phân tích và thảo luận về nội dung của hình này, GV có thể giúp HS hiểu rõ hơn về các nguồn gốc và hậu quả của ô nhiễm môi trường trong nông nghiệp.
+
+2. **Tổng hợp thông tin từ Document Images**:
+   - **Hình 26.1** có thể cung cấp thêm thông tin về các biện pháp phòng ngừa và giảm thiểu ô nhiễm môi trường trong nông nghiệp. GV có thể sử dụng hình ảnh này để thảo luận về cách thức mà HS có thể áp dụng để giảm thiểu ô nhiễm môi trường trong quá trình trồng trọt.
+
+3. **Hoạt động thực tế**:
+   - **Tổng hợp thông tin từ Knowledge Graph**:
+     - GV có thể tổ chức một buổi thảo luận tập thể về các nghiên cứu khoa học đã được thực hiện về tác hại của ô nhiễm môi trường trong nông nghiệp. Điều này sẽ giúp HS hiểu rõ hơn về các nghiên cứu cụ thể và kết quả đã được công bố.
+
+   - **Tổng hợp thông tin từ Document Images**:
+     - GV có thể tổ chức một buổi thực hành nhỏ tại trường hoặc trong cộng đồng để HS có thể trực tiếp tham gia vào các hoạt động như thu gom rác thải nông nghiệp, trồng cây xanh, hoặc tham gia vào các dự án bảo vệ môi trường. Điều này sẽ giúp HS hiểu rõ hơn về cách thức mà họ có thể góp phần vào việc giảm thiểu ô nhiễm môi trường.
+
+Qua đó, HS sẽ có cơ hội không chỉ hiểu lý thuyết mà còn được trải nghiệm thực tế, từ đó hiểu sâu hơn về tác hại của ô nhiễm môi trường trong trồng trọt đối với con người, cây trồng, vật nuôi và hệ sinh thái.","GV có thể tổ chức cho HS thảo luận để giải thích tác hại của ô nhiễm môi trường trong trồng trọt đối với con người, cây trồng, vật nuôi và hệ sinh thái giúp HS hiểu sâu hơn về nội dung của bài học.",0,0.47518796992481205,0.5543859649122806,0,0.2606060606060606,0.15087719298245614
+50,Hoạt động tìm hiểu về nguyên nhân gây ô nhiễm môi trường trong trồng trọt giúp HS đạt được mục tiêu gì?,"Hoạt động tìm hiểu về nguyên nhân gây ô nhiễm môi trường trong trồng trọt giúp HS **nhận biết được một số nguyên nhân gây ô nhiễm môi trường trong trồng trọt** và **liên hệ với thực tiễn ở gia đình và địa phương**. Qua đó, HS có thể hiểu rõ hơn về mối liên hệ giữa lý thuyết và thực hành, từ đó vận dụng kiến thức vào đời sống cụ thể.","Hoạt động tìm hiểu về nguyên nhân gây ô nhiễm môi trường trong trồng trọt giúp học sinh (HS) đạt được một số mục tiêu cụ thể như sau:
+
+1. **Tăng cường nhận thức**: Học sinh sẽ được cung cấp thông tin chi tiết về các nguồn gốc và hậu quả của ô nhiễm môi trường trong nông nghiệp, giúp họ hiểu rõ hơn về tầm quan trọng của việc bảo vệ môi trường.
+
+2. **Phát triển kỹ năng**: Qua quá trình nghiên cứu và phân tích, HS sẽ được rèn luyện kỹ năng phân tích vấn đề, tư duy logic và khả năng làm việc nhóm.
+
+3. **Tạo động lực thay đổi hành vi**: Thông qua việc hiểu rõ về tác động tiêu cực của ô nhiễm môi trường, HS sẽ có động lực để thay đổi cách thức hoạt động của mình, từ đó góp phần vào việc giảm thiểu ô nhiễm môi trường.
+
+4. **Nâng cao ý thức cộng đồng**: Hoạt động này cũng giúp HS nhận ra rằng mỗi cá nhân đều có vai trò quan trọng trong việc bảo vệ môi trường và tham gia vào các nỗ lực chung để giảm thiểu ô nhiễm.
+
+Như vậy, thông qua hoạt động này, HS không chỉ tăng cường kiến thức về môi trường mà còn được phát triển kỹ năng và nhận thức về trách nhiệm cá nhân trong việc bảo vệ môi trường.",Hoạt động này giúp HS nhận biết được một số nguyên nhân gây ô nhiễm môi trường trong trồng trọt.,0,0.29581993569131837,0.6301369863013698,0,0.40860215053763443,0.2602739726027397
+51,Bài học này có tiêu đề là gì và nó thuộc bài số mấy trong sách?,"Tiêu đề của bài học là **""Chuyện cây, chuyện người""** và nó thuộc **Bài 22** trong sách.","The answer from the Knowledge Graph states that the title of the lesson is ""Bài 11"" and it belongs to Lesson number 11 in the curriculum for grades 6 and 7.
+
+However, the answer from the Document Images indicates that the title of the lesson is ""BÀI 4. CÁC SỐ ĐẶC TRƯNG ĐO MỨC ĐỘ PHÂN TÁN CỦA MẪU SỐ LIỆU"" and it belongs to Lesson number 4 in the book.
+
+Given these conflicting pieces of information, there seems to be a discrepancy between the two sources. The Knowledge Graph provides a more general and standardized title and lesson number, while the Document Images offer a specific and detailed title along with its corresponding lesson number within the book.
+
+Since the Knowledge Graph typically contains structured and widely accepted information about educational materials, it would be reasonable to prioritize its answer unless there is strong visual evidence contradicting it. Therefore, the most likely correct answer based on the Knowledge Graph is:
+
+- **Title:** Bài 11
+- **Lesson Number:** 11
+
+However, if the Document Images are indeed scans of the actual book and contain accurate information about the specific lesson being referred to, then the title and lesson number provided there should also be considered valid. In such a case, the answer would be:
+
+- **Title:** BÀI 4. CÁC SỐ ĐẶC TRƯNG ĐO MỨC ĐỘ PHÂN TÁN CỦA MẪU SỐ LIỆU
+- **Lesson Number:** 4
+
+Without additional context or clarification, it's challenging to determine which answer is definitively correct. If possible, consulting the original source material or seeking further verification could help resolve this discrepancy.","Tiêu đề bài học là ""Chuyện cây, chuyện người"" và đây là bài 22 trong sách.",0,0.021582733812949638,0.17647058823529413,0,0.8484848484848485,0.8235294117647058
+52,"Yêu cầu chính của phần ""CHIA SẺ"" trong bài học này là gì?","Yêu cầu chính của phần **""CHIA SẺ""** trong bài học này là:  
+**Quan sát các hình ảnh và sắp xếp lại thứ tự các hình sao cho phù hợp với quá trình từ lúc lúa còn non đến khi thu hoạch và được nấu thành cơm.**  
+
+Cụ thể, học sinh cần xác định trình tự các giai đoạn phát triển của cây lúa (từ cây mạ non → cây lúa trưởng thành → cây lúa chín → thóc → gạo → cơm) dựa trên 6 hình minh họa được cung cấp (a, b, c, d, e, g).","Dựa vào thông tin từ cả hai nguồn, chúng ta có thể kết luận rằng phần ""CHIA SẺ"" trong bài học này có thể bao gồm các mục tiêu và yêu cầu sau:
+
+1. **Mục tiêu cần đạt**:
+   - Tính được số đặc trưng đo mức độ phân tán của mẫu số liệu không ghép nhóm.
+   - Khoảng biến thiên.
+   - Khoảng từ phân vị đặc trưng cho độ phân tán của một nửa các số liệu.
+   - Phương sai.
+   - Độ lệch chuẩn.
+
+2. **Năng lực cần chú trọng**:
+   - Tư duy và lập luận toán học.
+   - Mô hình hoá toán học.
+   - Giao tiếp toán học.
+
+3. **Tích hợp**:
+   - Toán học và cuộc sống.
+   - Tích hợp các môn học khác.
+
+Tuy nhiên, cần lưu ý rằng thông tin này chỉ là dựa trên các mục tiêu và yêu cầu được nêu trong các đoạn văn bản đã cung cấp. Nếu có thêm thông tin cụ thể về phần ""CHIA SẺ"" trong bài học, hãy cung cấp để có thể đưa ra một đáp án chính xác hơn.","Yêu cầu chính của phần ""CHIA SẺ"" là sắp xếp lại thứ tự các hình cho phù hợp với quá trình từ lúc lúa còn non đến lúc thu hoạch và được nấu thành cơm.",0,0.2651515151515152,0.3804347826086957,0,0.5354330708661418,0.3695652173913043
+53,Hãy kể tên các giai đoạn phát triển của cây lúa và các sản phẩm từ lúa được minh họa trong ảnh.,"Các giai đoạn phát triển của cây lúa và sản phẩm từ lúa được minh họa trong ảnh như sau:
+
+### **Giai đoạn phát triển của cây lúa** (theo thứ tự từ non đến chín):
+1. **Cây mạ non** (hình e): Cây lúa ở giai đoạn đầu, mới mọc mầm.  
+2. **Cây lúa trưởng thành** (hình g): Cây lúa đã lớn, thân lá phát triển đầy đủ.  
+3. **Cây lúa chín** (hình d): Cây lúa mang hạt vàng, sẵn sàng thu hoạch.  
+
+### **Sản phẩm từ lúa** (sau khi thu hoạch và chế biến):
+1. **Thóc** (hình b): Hạt lúa nguyên vỏ sau khi gặt.  
+2. **Gạo** (hình c): Thóc đã xay xát, loại bỏ vỏ trấu.  
+3. **Cơm** (hình a): Gạo đã nấu chín, dùng làm thức ăn.  
+
+Thứ tự đầy đủ từ trồng đến thành phẩm: *Cây mạ non → Cây lúa trưởng thành → Cây lúa chín → Thóc → Gạo → Cơm*.","Dựa trên thông tin từ knowledge graph, cây lúa trải qua các giai đoạn như sau:
+
+1. Giai đoạn hạt giống: Cây lúa bắt đầu từ hạt giống.
+2. Giai đoạn mọc rễ: Hạt giống nảy mầm và bắt đầu phát triển rễ.
+3. Giai đoạn sinh trưởng: Cây lúa bắt đầu tăng trưởng và phát triển lá.
+4. Giai đoạn hoa nở: Cây lúa nở hoa và thụ phấn.
+5. Giai đoạn hạt: Cây lúa bắt đầu hình thành hạt và tiếp tục phát triển.
+6. Giai đoạn thu hoạch: Cây lúa được thu hoạch để lấy hạt.
+
+Các sản phẩm từ lúa bao gồm:
+- Hạt lúa: Được sử dụng để ăn hoặc làm nguyên liệu cho nhiều loại thực phẩm khác nhau.
+- Bột gạo: Được làm từ hạt lúa đã được nghiền.
+- Bột mì: Được làm từ hạt lúa đã được nghiền và tinh chế.
+- Nước mắm: Một loại nước mắm được làm từ hạt lúa.
+- Rượu gạo: Một loại rượu được làm từ hạt lúa.
+
+Tuy nhiên, để có thêm thông tin chi tiết và minh họa chính xác hơn về các giai đoạn phát triển của cây lúa và các sản phẩm từ lúa, bạn nên tham khảo trực tiếp từ các tài liệu hình ảnh hoặc tài liệu văn bản liên quan.","Các giai đoạn phát triển của cây lúa và các sản phẩm từ lúa được minh họa trong ảnh bao gồm:
+
+1. Cây mạ non (e)
+2. Cây lúa trưởng thành (d)
+3. Cây lúa chín (c)
+4. Gạo (g)
+5. Cơm (a)",0,0.4207650273224044,0.5167785234899329,0,0.3958333333333333,0.2550335570469799
+54,Bài tập đầu tiên trong trang sách nhạc này hướng dẫn người học thực hiện điều gì?,"Bài tập đầu tiên (số 1) trong trang sách nhạc này hướng dẫn người học **thể hiện tiết tấu bằng nhạc cụ gõ** (nhạc cụ đánh nhịp như trống, thanh gõ...). Cụ thể:  
+- Người học cần tập chơi mẫu tiết tấu được ghi trên khuông nhạc (với các nốt đen, nốt móc) theo nhịp điệu quy định.  
+- Mục tiêu là **ứng dụng tiết tấu này để đệm cho bài hát ""Mùa xuân""** (phần 2 của trang), giúp làm nền cho giai điệu chính khi biểu diễn.  
+
+Đây là bài tập rèn kỹ năng cảm thụ và thực hành tiết tấu cơ bản trước khi kết hợp với phần hòa tấu hoàn chỉnh.","The first exercise in this music book guides the learner to demonstrate the rhythm using percussion instruments. However, without additional context about the specific book or chapter being referred to, it's important to note that the exact details of the exercise might vary depending on the educational material. The knowledge graph suggests that more specific information about the book, chapter, or even the page number would be necessary to provide a precise answer. Therefore, while the document image clearly states that the first exercise involves demonstrating rhythm with percussion instruments, the lack of specific details means we cannot definitively state what the exact exercise entails without further clarification.",Bài tập đầu tiên hướng dẫn người học thể hiện tiết tấu bằng nhạc cụ gõ.,0,0.0,0.0,0,0.25,0.14285714285714285
+55,Bài hát 'Mùa xuân' trong trang sách nhạc này là một trích đoạn hay một tác phẩm hoàn chỉnh?,"Bài hát ""Mùa xuân"" trong trang sách nhạc này **là một trích đoạn**, được thể hiện rõ qua chú thích **""(Trích)""** ngay sau tên tác phẩm. Đây là đặc điểm thường thấy trong sách giáo khoa âm nhạc, nơi các đoạn nhạc ngắn được chọn lọc từ tác phẩm gốc để phục vụ mục đích giảng dạy hoặc luyện tập kỹ năng hòa tấu.","Dựa vào thông tin từ Knowledge Graph, chúng ta biết rằng ""Mùa xuân"" là một tác phẩm âm nhạc được sáng tác bởi Antonino Vivaldi. Tuy nhiên, không có thông tin cụ thể về việc nó là một phần của một tác phẩm lớn hơn hay một tác phẩm độc lập.
+
+Trong khi đó, từ thông tin trong file_path ""/kaggle/tmp/megarag_vdoc/pages_content.json"", chúng ta có thể thấy rằng đây là một tài liệu liên quan đến một bài học âm nhạc cho lớp 6 và lớp 7. Tuy nhiên, thông tin này không cung cấp đủ để xác định xem ""Mùa xuân"" là một phần của một tác phẩm lớn hơn hay một tác phẩm độc lập.
+
+Để trả lời chính xác câu hỏi của bạn, chúng ta cần thêm thông tin cụ thể về bản chất của bài hát ""Mùa xuân"" và vị trí của nó trong tài liệu âm nhạc mà bạn đang tham khảo. Nếu bạn có thêm thông tin chi tiết về bài hát này, tôi sẽ có thể giúp bạn xác định chính xác hơn.",Bài hát 'Mùa xuân' là một trích đoạn.,0,0.1927710843373494,0.375,0,0.2222222222222222,0.125
+56,Tác phẩm 'Mùa xuân' được trình bày trong trang sách nhạc này được sáng tác bởi ai?,"Tác phẩm ""Mùa xuân"" trong trang sách nhạc này được sáng tác bởi **Antonio Vivaldi** (được ghi rõ tên ở phần thông tin tác giả bên cạnh tiêu đề ""Mùa xuân (Trích)""). Đây là một trích đoạn từ bộ sưu tập *Bốn mùa* nổi tiếng của ông.","The work 'Mùa xuân' presented in this music book was composed by Antonio Vivaldi. This conclusion is drawn from the information provided in the document images, which clearly states that 'Mùa xuân' was composed by Antonio Vivaldi.
+
+Additionally, the knowledge graph supports this information, confirming that 'Mùa xuân' is indeed a composition by Antonino Vivaldi. The discrepancy between the names ""Antonino Vivaldi"" and ""Antonio Vivaldi"" can be reconciled by noting that these are likely variations of the same name, commonly used interchangeably in historical contexts. Therefore, it is reasonable to conclude that the correct composer of 'Mùa xuân' is Antonio Vivaldi.",Antonio Vivaldi,0,0.0945945945945946,0.14893617021276595,0,0.08163265306122448,0.0425531914893617
+57,Hoạt động 1 yêu cầu học sinh nêu những hàm số nào đã được học ở các lớp dưới và tập xác định của chúng là gì?,"Hoạt động 1 yêu cầu học sinh nêu các hàm số đã được học ở các lớp dưới cùng tập xác định của chúng như sau:
+
+1. **Hàm số $ y = x^2 $**  
+   - Tập xác định: $ \mathbb{R} $ (tất cả số thực).
+
+2. **Hàm số $ y = x^{\frac{1}{2}} $** (hay $ y = \sqrt{x} $)  
+   - Tập xác định: $ (0; +\infty) $ (số thực dương).
+
+3. **Hàm số $ y = x^{-1} $** (hay $ y = \frac{1}{x} $)  
+   - Tập xác định: $ \mathbb{R} \setminus \{0\} $ (tất cả số thực trừ 0).
+
+Các hàm này được minh họa trong Hình 36, với lưu ý rằng tập xác định của hàm lũy thừa $ y = x^\alpha $ phụ thuộc vào giá trị của số mũ $ \alpha $ (dương, âm, nguyên, hữu tỉ, vô tỉ).","Để trả lời câu hỏi này, chúng ta cần xem xét thông tin từ cả knowledge graph và các hình ảnh tài liệu liên quan đến các lớp trước đó mà học sinh đã học về hàm số.
+
+Từ knowledge graph, chúng ta biết rằng:
+
+1. **Hàm số tuyến tính**: Hàm số dạng \( y = mx + b \), với \( m \) và \( b \) là các số thực cố định. Tập xác định của hàm số tuyến tính là tất cả các số thực \( \mathbb{R} \).
+   
+2. **Hàm số bậc nhất**: Hàm số dạng \( y = ax^2 + bx + c \), với \( a \), \( b \), và \( c \) là các số thực cố định. Tập xác định của hàm số bậc nhất cũng là tất cả các số thực \( \mathbb{R} \).
+
+Trong các hình ảnh tài liệu, nếu có thông tin cụ thể về các hàm số đã được học ở các lớp trước, chúng ta sẽ có thêm thông tin chi tiết hơn. Ví dụ, nếu tài liệu cho thấy học sinh đã học về hàm số \( y = x^2 \) trong lớp trước, thì tập xác định của hàm số này cũng là tất cả các số thực \( \mathbb{R} \).
+
+Tóm lại, dựa trên kiến thức từ knowledge graph và thông tin từ tài liệu, học sinh có thể nêu ra các hàm số đã học ở các lớp trước như:
+
+- **Hàm số tuyến tính**: \( y = mx + b \) với tập xác định \( \mathbb{R} \).
+- **Hàm số bậc nhất**: \( y = ax^2 + bx + c \) với tập xác định \( \mathbb{R} \).
+- **Hàm số \( y = x^2 \)**: Tập xác định \( \mathbb{R} \).
+
+Những hàm số này đều có tập xác định là tất cả các số thực \( \mathbb{R} \).","Học sinh đã học hàm số \( y = x^2 \) với tập xác định \(\mathbb{R}\), hàm số \( y = x^{\frac{1}{2}} \) với tập xác định \((0; +\infty)\), và hàm số \( y = x^{-1} \) với tập xác định \(\mathbb{R} \setminus \{0\}\).",0,0.3622828784119107,0.5887096774193549,0,0.4698795180722892,0.31451612903225806
+58,"Theo nội dung trong ảnh, tại sao SGK lại thừa nhận công thức tính đạo hàm của hàm số luỹ thừa y = x^α (α ∈ R) mà không chứng minh?","Theo nội dung trong ảnh, SGK thừa nhận công thức tính đạo hàm của hàm số luỹ thừa $ y = x^\alpha $ ($ \alpha \in \mathbb{R} $) **mà không chứng minh** vì lý do sau:  
+
+Để chứng minh công thức này, **cần sử dụng kiến thức về đạo hàm của hàm số mũ và logarit** (như cách biến đổi $ x = e^{\ln x} $, dẫn đến $ y = x^\alpha = e^{\alpha \ln x} $, rồi áp dụng quy tắc đạo hàm hợp). Tuy nhiên, các khái niệm về hàm số mũ và logarit mới được giới thiệu ở **§4** (phần sau trong chương trình). Do đó, SGK tạm thời thừa nhận công thức để học sinh tiếp cận trước, và **sẽ chứng minh lại công thức này sau khi học xong §4**, khi học sinh đã nắm vững nền tảng cần thiết.  
+
+Điều này giúp tránh việc làm phức tạp hóa bài học ở giai đoạn đầu, đồng thời đảm bảo tính logic trong tiến trình dạy-học (kiến thức được xây dựng từ đơn giản đến phức tạp).","Để trả lời câu hỏi này, chúng ta cần xem xét cả thông tin từ knowledge graph và nội dung trong ảnh.
+
+Từ knowledge graph, chúng ta biết rằng công thức tính đạo hàm của hàm số luỹ thừa \( y = x^\alpha \) là:
+
+\[ \frac{dy}{dx} = \alpha x^{\alpha-1} \]
+
+Công thức này được xác định dựa trên các quy tắc đạo hàm cơ bản và tính chất của hàm số luỹ thừa. Tuy nhiên, để chứng minh công thức này, chúng ta cần sử dụng các phương pháp phân tích và lý thuyết về giới hạn, như định nghĩa đạo hàm và các định lý liên quan.
+
+Trong ảnh, có thể thấy một số thông tin về việc học sinh đã học về các hàm số cơ bản, bao gồm hàm số luỹ thừa. Tuy nhiên, ảnh không cung cấp chi tiết về quá trình chứng minh công thức đạo hàm của hàm số luỹ thừa.
+
+Vì vậy, mặc dù knowledge graph đã cung cấp công thức đạo hàm của hàm số luỹ thừa, nhưng việc không chứng minh công thức này có thể là do:
+
+1. **Định hướng giáo dục**: Giáo viên hoặc sách giáo khoa có thể chọn không chứng minh công thức để tập trung vào việc áp dụng công thức đó vào các bài toán cụ thể hơn. Điều này giúp học sinh nắm bắt kiến thức nhanh chóng hơn và áp dụng hiệu quả hơn vào các bài tập thực tế.
+
+2. **Khả năng tiếp thu**: Học sinh có thể chưa đủ khả năng để hiểu và chứng minh công thức này ngay lập tức. Việc chứng minh công thức đòi hỏi kiến thức nền tảng về giới hạn, định nghĩa đạo hàm và các định lý liên quan, điều này có thể vượt quá khả năng của một số học sinh.
+
+3. **Tiêu chí đánh giá**: Sách giáo khoa hoặc giáo viên có thể đánh giá học sinh dựa trên việc họ có thể áp dụng công thức đó vào các bài tập cụ thể thay vì yêu cầu họ phải chứng minh nó.
+
+Tóm lại, việc không chứng minh công thức đạo hàm của hàm số luỹ thừa có thể là kết quả của nhiều yếu tố khác nhau, bao gồm định hướng giáo dục, khả năng tiếp thu của học sinh và tiêu chí đánh giá.","Theo nội dung trong ảnh, SGK thừa nhận công thức tính đạo hàm của hàm số luỹ thừa y = x^α (α ∈ R) mà không chứng minh vì đã sử dụng công thức đạo hàm của hàm số mũ và lôgarit để chứng minh lại công thức đó cho học sinh.",0,0.34035087719298246,0.5542857142857143,0,0.415929203539823,0.26857142857142857
+59,Quá trình chứng minh công thức đạo hàm của hàm số luỹ thừa y = x^α được trình bày trong ảnh diễn ra như thế nào?,"Theo nội dung trong ảnh, quá trình chứng minh công thức đạo hàm của hàm số luỹ thừa $ y = x^\alpha $ ($ \alpha \in \mathbb{R} $) được trình bày **bằng cách sử dụng hàm số mũ và lôgarit**, cụ thể như sau:
+
+---
+
+### **Bước 1: Biến đổi biểu thức**
+Với $ x > 0 $, ta có:
+$$
+x = e^{\ln x}
+$$
+Do đó, hàm số luỹ thừa được viết lại dưới dạng hàm mũ:
+$$
+y = x^\alpha = \left(e^{\ln x}\right)^\alpha = e^{\alpha \ln x}.
+$$
+
+---
+
+### **Bước 2: Áp dụng quy tắc đạo hàm hàm hợp**
+Đạo hàm của $ y = e^{\alpha \ln x} $ được tính bằng cách sử dụng **quy tắc đạo hàm hàm hợp**:
+$$
+y' = \left(e^{\alpha \ln x}\right)' = e^{\alpha \ln x} \cdot (\alpha \ln x)'.
+$$
+
+---
+
+### **Bước 3: Tính đạo hàm từng phần**
+- Đạo hàm của $ e^{\alpha \ln x} $ giữ nguyên là $ e^{\alpha \ln x} $.
+- Đạo hàm của $ \alpha \ln x $ là:
+  $$
+  (\alpha \ln x)' = \alpha \cdot \frac{1}{x}.
+  $$
+
+Thay vào, ta có:
+$$
+y' = e^{\alpha \ln x} \cdot \alpha \cdot \frac{1}{x}.
+$$
+
+---
+
+### **Bước 4: Rút gọn biểu thức**
+Vì $ e^{\alpha \ln x} = x^\alpha $, nên:
+$$
+y' = x^\alpha \cdot \alpha \cdot \frac{1}{x} = \alpha \cdot x^{\alpha - 1}.
+$$
+
+---
+
+### **Kết luận**
+Công thức đạo hàm của hàm số luỹ thừa được chứng minh là:
+$$
+\left(x^\alpha\right)' = \alpha x^{\alpha - 1}, \quad \text{với } x > 0.
+$$
+
+---
+
+### **Lưu ý quan trọng**
+- Chứng minh này **chỉ áp dụng khi $ x > 0 $** vì $ \ln x $ chỉ xác định với $ x > 0 $.
+- Sách giáo khoa (SGK) ban đầu **thừa nhận công thức** mà không chứng minh ngay lập tức, nhưng sau đó hướng dẫn học sinh tự chứng minh bằng cách kết hợp kiến thức về đạo hàm hàm mũ và lôgarit (như trình bày ở trên). Điều này phù hợp với mục tiêu giảm tải lý thuyết phức tạp ở lớp dưới và tập trung vào ứng dụng.","Dựa trên hai câu trả lời được cung cấp, chúng ta có thể tổng hợp lại quá trình chứng minh công thức đạo hàm của hàm số luỹ thừa \( y = x^\alpha \) như sau:
+
+1. **Bước 1: Sử dụng định nghĩa đạo hàm**  
+   Để chứng minh công thức đạo hàm của hàm số luỹ thừa \( y = x^\alpha \), ta bắt đầu từ định nghĩa đạo hàm. Đạo hàm của một hàm số \( f(x) \) tại điểm \( x \) được định nghĩa là giới hạn của tỷ số thay đổi khi \( h \to 0 \):
+
+   \[
+   f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}
+   \]
+
+2. **Bước 2: Áp dụng định nghĩa với hàm số luỹ thừa**  
+   Áp dụng định nghĩa này vào hàm số \( y = x^\alpha \):
+
+   \[
+   y' = \lim_{h \to 0} \frac{(x+h)^\alpha - x^\alpha}{h}
+   \]
+
+3. **Bước 3: Sử dụng tính chất của giới hạn**  
+   Để giải quyết giới hạn trên, ta sử dụng tính chất của giới hạn và định lý lôgarit tự nhiên. Trong ảnh, quá trình chứng minh tiếp tục với các bước sau:
+
+   - Với \( x > 0 \), ta có \( x = e^{\ln x} \).
+   - Do đó, \( y = x^\alpha = e^{\alpha \ln x} \).
+   - Tính đạo hàm của \( y \) bằng cách sử dụng quy tắc đạo hàm của hàm số lôgarit tự nhiên và tính chất của giới hạn.
+
+4. **Bước 4: Tính đạo hàm**  
+   Sử dụng tính chất của giới hạn và định lý lôgarit tự nhiên, ta có thể tính đạo hàm của \( y = e^{\alpha \ln x} \):
+
+   \[
+   y' = \frac{d}{dx} e^{\alpha \ln x} = e^{\alpha \ln x} \cdot \frac{d}{dx} (\alpha \ln x)
+   \]
+   
+   Tính đạo hàm bên trong:
+
+   \[
+   \frac{d}{dx} (\alpha \ln x) = \alpha \cdot \frac{1}{x}
+   \]
+
+   Kết hợp với \( e^{\alpha \ln x} \):
+
+   \[
+   y' = e^{\alpha \ln x} \cdot \frac{\alpha}{x} = x^\alpha \cdot \frac{\alpha}{x} = \alpha x^{\alpha-1}
+   \]
+
+Tóm lại, quá trình chứng minh công thức đạo hàm của hàm số luỹ thừa \( y = x^\alpha \) được trình bày trong ảnh bao gồm việc sử dụng định nghĩa đạo hàm, tính chất của giới hạn, và tính chất của hàm số lôgarit tự nhiên để tính đạo hàm của hàm số đó.","Quá trình chứng minh công thức đạo hàm của hàm số luỹ thừa y = x^α được trình bày trong ảnh diễn ra như sau:
+
+Với x > 0 ta có x = e^(ln x). Vì vậy y = x^α = e^(α ln x).
+
+Từ đó, đạo hàm của y là y' = (e^(α ln x))' = e^(α ln x) (α ln x)' = x^α . α . (1/x) = α x^(α-1).",0,0.6023054755043228,0.6470588235294118,0,0.2893401015228427,0.17647058823529413
