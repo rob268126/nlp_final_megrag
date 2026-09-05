@@ -1,0 +1,13 @@
+{
+  "num_eval": 90,
+  "megarag_exact_match": 0.0,
+  "megarag_token_f1": 0.3996637230370673,
+  "megarag_token_recall": 0.665377872149506,
+  "megarag_relaxed_acc": 0.1495159509175986,
+  "baseline_exact_match": 0.0,
+  "baseline_token_f1": 0.23630925583348653,
+  "baseline_token_recall": 0.1484197024562618,
+  "baseline_relaxed_acc": 0.19899295525078256,
+  "megarag_llm_judge_accuracy": 0.5111111111111111,
+  "num_llm_judged": 90
+}

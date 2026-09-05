@@ -1,0 +1,29 @@
+example_number: 1
+language: Vietnamese
+
+entity_types:
+  - person
+  - organization
+  - location
+  - event
+  - concept
+  - literary_work
+  - table
+  - figure
+  - date
+  - mathematical_expression
+  - document
+  - law
+
+insert_batch_size: 1
+entity_extract_max_gleaning: 0
+entity_refine_max_times: 0
+
+refine_subgraph_top_k: 20
+refine_subgraph_max_token_for_global_context: 3000
+refine_subgraph_max_token_for_local_context: 3000
+refine_subgraph_max_token_for_text_unit: 3000
+
+chunk_top_k: 4
+embed_parallel_limit: 1
+llm_model_max_async: 1
