@@ -9,8 +9,6 @@ st.set_page_config(page_title="MegaRAG Vietnamese VQA Demo", layout="wide")
 st.title("🇻🇳 Demo MegaRAG & Qwen3-VL cho Tài liệu Tiếng Việt")
 st.markdown("Ứng dụng trả lời câu hỏi dựa trên ảnh tài liệu và Multimodal Knowledge Graph (MMKG).")
 
-st.sidebar.info("💡 **Lưu ý:** Để chạy demo này trên máy cá nhân, bạn cần có GPU VRAM > 16GB và đã chạy Notebook để build sẵn MMKG.")
-
 def mock_query(question):
     # Đường dẫn tương đối khi chạy local, hoặc tuyệt đối trên Kaggle
     results_file = os.path.join(os.path.dirname(__file__), '..', '..', 'outputs', 'demo_results.jsonl')
